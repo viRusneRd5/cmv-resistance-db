@@ -47,6 +47,8 @@ All notable changes to the database and site. Data releases are tagged
   also removed from `data/source/cmv_resistance_db.bib` (the only source-file
   edit; it cannot be re-exported without them).
 - Home-page intro text now spans the table width.
+- About page: CMVResistanceFinder pipeline section (how sequencing data are
+  matched against the phenotype database), with GitHub and Zenodo links.
 - Citation metadata for Zenodo/GitHub: `CITATION.cff` + `.zenodo.json`
   (dataset, CC BY 4.0, authors with ORCIDs).
 - About page: "Download the data" section — phenotype summary + individual

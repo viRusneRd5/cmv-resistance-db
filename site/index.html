@@ -111,6 +111,34 @@ Searching for one component also returns the combinations that contain it.</p>
 <p>Records with an unparseable mutation name are excluded from the site and listed in
 <code>data/tidy/needs_review.csv</code> in the source repository until corrected.</p>
 
+<h2>Analysing sequencing data: CMVResistanceFinder</h2>
+<p><a href="https://github.com/viRusneRd5/CMVResistanceFinder"><strong>CMVResistanceFinder</strong></a>
+is a companion Nextflow pipeline that detects antiviral-resistance mutations in CMV sequencing
+data and interprets them using the phenotype data in this database.</p>
+<ul>
+  <li><strong>Input</strong> — short- or long-read sequencing data (amplicon or whole-genome), or
+  per-gene consensus sequences (e.g. Sanger) in FASTA format.</li>
+  <li><strong>Variant detection</strong> — reads are quality-checked and trimmed, optionally
+  host-depleted and taxonomically classified, aligned to the CMV reference genome (Merlin,
+  NC_006273.2) and variant-called with one or more callers (iVar, FreeBayes, LoFreq). Consensus
+  sequences are aligned directly to the reference gene regions.</li>
+  <li><strong>Matching to the database</strong> — variants are annotated with SnpEff, and each
+  amino-acid change is matched against the phenotype database to report, for each drug, the
+  EC<sub>50</sub> ratio, level of resistance and supporting references. A detected mutation that
+  was also phenotyped as part of a mutation combination is reported against that combination too,
+  flagged as a combination match.</li>
+  <li><strong>Mutations of unknown significance</strong> — non-synonymous changes in the resistance
+  genes that are not in the database are still listed. Absence from the database means no published
+  phenotype was found; it does not mean the mutation is susceptible.</li>
+  <li><strong>Reports</strong> — per-sample and per-run resistance reports (HTML and PDF) and an
+  aggregate quality-control report (MultiQC).</li>
+</ul>
+<p>The pipeline bundles the same phenotype meta-analysis dataset shown on this site; the version is
+printed on every report. Patient reports are not used by the pipeline. Like this database, it is
+for research use only.</p>
+<p>Code: <a href="https://github.com/viRusneRd5/CMVResistanceFinder">github.com/viRusneRd5/CMVResistanceFinder</a>
+· Archived release: <a href="https://doi.org/10.5281/zenodo.24520720">doi:10.5281/zenodo.24520720</a></p>
+
 <h2>How to cite</h2>
 <p>If you use this database, please cite the accompanying manuscript:</p>
 <p>Hume J, <em>et al.</em> <span class="muted">Manuscript in preparation; the

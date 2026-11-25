@@ -6,7 +6,10 @@ mutations — combining a phenotype meta-analysis with clinical/patient reports.
 **Research use only.** This resource summarises published research and must not be used
 to inform clinical practice or individual patient management.
 
-- **Site:** https://virusnerd5.github.io/cmv-resistance-db/ *(after first deploy)*
+- **Site:** https://virusnerd5.github.io/cmv-resistance-db/
+- **Pipeline:** [CMVResistanceFinder](https://github.com/viRusneRd5/CMVResistanceFinder)
+  ([doi:10.5281/zenodo.24520720](https://doi.org/10.5281/zenodo.24520720)) — detects resistance
+  mutations in CMV sequencing data and interprets them against this database's phenotype data.
 - **Data licence:** CC BY 4.0 · **Code licence:** MIT
 
 ## How it works
