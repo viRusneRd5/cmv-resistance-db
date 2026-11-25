@@ -65,7 +65,8 @@ jobs:
   # Variables) to turn this on. Until then the job is skipped, not failed.
   deploy:
     if: >-
-      github.ref == 'refs/heads/main' && github.event_name == 'push'
+      github.ref == 'refs/heads/main'
+      && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
       && vars.PAGES_ENABLED == 'true'
     needs: build
     runs-on: ubuntu-latest
