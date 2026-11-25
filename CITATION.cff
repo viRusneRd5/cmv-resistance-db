@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: >-
+  If you use this database, please cite it using the metadata below, and cite
+  the accompanying manuscript (citation to be added once the preprint is
+  available).
+type: dataset
+title: CMV Antiviral Resistance Database
+abstract: >-
+  A curated, searchable database of cytomegalovirus (CMV) antiviral-resistance
+  mutations, built from a systematic review of the published literature. It
+  combines a random-effects meta-analysis of recombinant-phenotyping EC50 data
+  with published patient reports, and assigns resistance levels for
+  ganciclovir, cidofovir, foscarnet, letermovir and maribavir.
+authors:
+  - family-names: Hume
+    given-names: Jocelyn
+    orcid: "https://orcid.org/0000-0002-1092-4958"
+    affiliation: The University of Queensland
+  - family-names: Lowry
+    given-names: Kym
+    orcid: "https://orcid.org/0000-0002-9666-149X"
+    affiliation: The University of Queensland
+  - family-names: Sweeney
+    given-names: Emma L.
+    orcid: "https://orcid.org/0000-0002-3199-6432"
+    affiliation: The University of Queensland
+version: 1.0.0
+date-released: "2026-11-25"
+license: CC-BY-4.0
+url: "https://virusnerd5.github.io/cmv-resistance-db/"
+repository-code: "https://github.com/viRusneRd5/cmv-resistance-db"
+keywords:
+  - cytomegalovirus
+  - CMV
+  - antiviral resistance
+  - drug resistance
+  - EC50
+  - meta-analysis
+  - systematic review
+  - virology
