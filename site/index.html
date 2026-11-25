@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CMV Antiviral Resistance Database</title>
+<meta name="description" content="A curated database of cytomegalovirus (CMV) antiviral-resistance mutations: phenotype meta-analysis and patient reports.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ctext y='13' font-size='13'%3E%F0%9F%A7%AC%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/tabulator.min.css">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap">
+    <span class="brand"><a href="#/">CMV Antiviral Resistance Database</a><span class="v" id="data-version"></span></span>
+    <div class="gsearch">
+      <input id="global-search" type="search" autocomplete="off"
+             placeholder="Search gene, mutation (A594V), codon (594) or drug…">
+    </div>
+    <nav>
+      <a href="#/" data-route="home">Home</a>
+      <a href="#/search" data-route="search">Search</a>
+      <a href="#/about" data-route="about">About</a>
+    </nav>
+  </div>
+</header>
+
+<div class="disclaimer" id="disclaimer" hidden>
+  <div class="wrap">
+    <span><strong>Research use only.</strong> This resource summarises published research and
+    <strong>must not be used to inform clinical practice</strong> or individual patient management.</span>
+    <button id="disclaimer-ack">Got it</button>
+  </div>
+</div>
+
+<main><div class="wrap" id="view"><div class="spinner">Loading database…</div></div></main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>Research use only — not for clinical decision-making.</span>
+    <span>Data version <span id="foot-version">—</span></span>
+    <a href="#/about">About &amp; methods</a>
+    <span class="muted" id="foot-counts"></span>
+  </div>
+</footer>
+
+<!-- About / Methods content (rendered into #view on #/about) -->
+<template id="tpl-about">
+<div class="prose">
+<div class="crumb"><a href="#/">Home</a> / About</div>
+<h1>About &amp; methods</h1>
+
+<p>The <strong>CMV Antiviral Resistance Database</strong> collates two kinds of evidence about
+mutations in human cytomegalovirus that may affect antiviral drug susceptibility:</p>
+<ul>
+  <li><strong>Phenotype</strong> — recombinant-phenotyping EC<sub>50</sub> data extracted from the
+  literature and, where possible, combined by random-effects meta-analysis.</li>
+  <li><strong>Patient reports</strong> — cases in which a mutation was detected in a patient,
+  with the clinical context recorded (transplant type, age group, CMV disease, outcome).</li>
+</ul>
+
+<div class="callout">Patients frequently carry several resistance mutations at once. A mutation's
+presence in a patient with a poor outcome is <strong>not</strong> evidence that that mutation
+caused the outcome. The patient tab lists every mutation reported for the patient — and it is
+possible that not all mutations present in a patient were reported by the original study.</div>
+
+<h2>Resistance levels</h2>
+<p>Each mutation–drug pair is assigned a resistance level from the fold-change in EC<sub>50</sub>
+relative to a wild-type control (the <em>EC<sub>50</sub> ratio</em>):</p>
+<table>
+<thead><tr><th>Level</th><th>EC<sub>50</sub> ratio</th></tr></thead>
+<tbody>
+<tr><td><span class="chip chip--Susceptible">Susceptible</span></td><td>&lt; 2</td></tr>
+<tr><td><span class="chip chip--Low">Low</span></td><td>2 to &lt; 5</td></tr>
+<tr><td><span class="chip chip--Medium">Medium</span></td><td>5 to &lt; 15</td></tr>
+<tr><td><span class="chip chip--High">High</span></td><td>&ge; 15</td></tr>
+<tr><td><span class="chip chip--Unknown">Unknown</span></td><td>no phenotype data</td></tr>
+</tbody>
+</table>
+<p>The level shown is taken directly from the source dataset; this site does not recompute it.</p>
+
+<h2>Evidence tiers</h2>
+<p>Phenotype results differ in how much data support them:</p>
+<ul>
+  <li><strong>Meta-analysed</strong> — two or more EC<sub>50</sub> values pooled by random-effects
+  meta-analysis; a pooled ratio, 95% confidence interval and I² are shown.</li>
+  <li><strong>Geometric mean</strong> — two or more values combined as a geometric mean, without a
+  formal meta-analysis (insufficient variance information).</li>
+  <li><strong>Single value</strong> — one reported EC<sub>50</sub> ratio.</li>
+</ul>
+
+<h2>Systematic review &amp; meta-analysis</h2>
+<p>The data in this database come from a systematic review of the published literature on CMV
+antiviral resistance. The full methods are described in the accompanying manuscript (see <em>How to cite</em>, below), including the search strategy, databases searched,
+inclusion/exclusion criteria, screening, data extraction and the meta-analysis.</p>
+<p>In brief, each EC<sub>50</sub> comparison that reported a mean, standard deviation and
+number of replicates for both the mutant and the wild-type virus was converted to a log ratio
+of means (mutant EC<sub>50</sub> / wild-type EC<sub>50</sub>). For each mutation&ndash;drug pair,
+these were pooled with a random-effects model (restricted maximum likelihood, with the
+Knapp&ndash;Hartung adjustment) using the R package <code>metafor</code>. The pooled estimate and
+95% confidence interval are shown on the original ratio scale; <em>k</em> is the number of
+comparisons pooled.</p>
+
+<h2>Combination mutations</h2>
+<p>Some genotypes were phenotyped as a set of mutations tested together. These are listed as their
+own records (e.g. <code>A594V + L595S</code>) and are not attributed to any single component.
+Searching for one component also returns the combinations that contain it.</p>
+
+<h2>Data quarantine</h2>
+<p>Records with an unparseable mutation name are excluded from the site and listed in
+<code>data/tidy/needs_review.csv</code> in the source repository until corrected.</p>
+
+<h2>How to cite</h2>
+<p>If you use this database, please cite the accompanying manuscript:</p>
+<p>Hume J, <em>et al.</em> <span class="muted">Manuscript in preparation; the
+preprint citation will be added here once it is available.</span></p>
+<p>Please also state the data version shown at the bottom of this page. A BibTeX file of every
+study cited in the database is available as
+<a href="https://github.com/viRusneRd5/cmv-resistance-db/blob/main/data/tidy/references.bib">
+<code>references.bib</code></a> in the repository.</p>
+
+<h2>Download the data</h2>
+<p>The full phenotype dataset behind this site can be downloaded as CSV files
+(data version <span class="dv"></span>):</p>
+<ul>
+  <li><a href="data/downloads/phenotype_summary.csv" download><strong>Phenotype summary</strong></a>
+  (<code>phenotype_summary.csv</code>) — one row per mutation&ndash;drug pair: resistance level,
+  overall EC<sub>50</sub> ratio, evidence tier and, where meta-analysed, the pooled estimate with
+  95% CI and heterogeneity.</li>
+  <li><a href="data/downloads/phenotype_measurements.csv" download><strong>Individual phenotype measurements</strong></a>
+  (<code>phenotype_measurements.csv</code>) — one row per extracted EC<sub>50</sub> comparison:
+  study, sample type, reference strain, assay, cell type, wild-type and mutant
+  EC<sub>50</sub> (mean, SD, replicates), EC<sub>50</sub> ratio, and whether it was included in the
+  meta-analysis.</li>
+  <li><a href="data/downloads/references.bib" download><strong>References</strong></a>
+  (<code>references.bib</code>) — BibTeX for every cited study. The <code>bibtex*</code> columns
+  in both CSVs refer to these keys.</li>
+</ul>
+<p class="preview-only small muted">Download links are disabled in this preview; they work on the
+live site.</p>
+<details>
+<summary>Column guide</summary>
+<p><strong><code>phenotype_summary.csv</code></strong></p>
+<ul>
+  <li><code>gene_mutation</code>, <code>drug</code> — the mutation (combinations joined with
+  <code>/</code>) and the antiviral tested.</li>
+  <li><code>level</code> — resistance level (see thresholds above); <code>ec50_ratio</code> — the
+  overall EC<sub>50</sub> ratio the level is based on.</li>
+  <li><code>tier</code> — <code>meta-analysed</code>, <code>geometric-mean</code> or
+  <code>single-value</code>.</li>
+  <li><code>k</code>, <code>estimate</code>, <code>ci_lb</code>, <code>ci_ub</code>, <code>se</code>,
+  <code>i2</code>, <code>tau2</code>, <code>pval</code> — meta-analysis results (number of
+  comparisons pooled; pooled ratio and 95% CI on the ratio scale; SE on the log scale;
+  I² (%); &tau;²; p-value). Empty when not meta-analysed.</li>
+  <li><code>n_studies</code>, <code>n_vals</code> — studies and values behind a geometric mean.</li>
+  <li><code>bibtex_meta</code>, <code>bibtex_geo</code> — studies contributing to the
+  meta-analysis / geometric mean (<code>; </code>-separated keys).</li>
+</ul>
+<p><strong><code>phenotype_measurements.csv</code></strong></p>
+<ul>
+  <li><code>wt_ec50</code>, <code>wt_sd</code>, <code>wt_n</code> and <code>mut_ec50</code>,
+  <code>mut_sd</code>, <code>mut_n</code> — wild-type and mutant EC<sub>50</sub> mean, SD and
+  number of replicates, as extracted from the study.</li>
+  <li><code>ec50_ratio</code> — mutant / wild-type EC<sub>50</sub> ratio;
+  <code>ec50_ratio_calc</code> — the same ratio calculated from the extracted means, where
+  available.</li>
+  <li><code>in_meta</code> — <code>TRUE</code> if the row was included in the meta-analysis.</li>
+</ul>
+<p>Missing values are written as <code>NA</code>.</p>
+</details>
+
+<h2>Licence</h2>
+<p>Code: MIT. Data: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> — please
+cite the source when reusing.</p>
+
+<h2>Contact</h2>
+<p>Noticed an error, or have new data to submit? Please
+<a href="https://github.com/viRusneRd5/cmv-resistance-db/issues/new/choose">open an issue on GitHub</a>.</p>
+
+<p class="small muted">Data version <span class="dv"></span> · site built <span class="bd"></span>.</p>
+</div>
+</template>
+
+<script src="assets/tabulator.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

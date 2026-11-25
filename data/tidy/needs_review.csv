@@ -1,0 +1,14 @@
+source,issue,value,context,study
+patient_observations,unparseable mutation token,UL54_884a,UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_884a/UL97_C592G,smith_il_high-level_1997
+patient_observations,unparseable mutation token,UL54_884a,UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_L802M/UL54_A885T/UL54_884a/UL97_C603W,smith_il_high-level_1997
+patient_observations,unparseable mutation token,UL54_884a,UL54_K513E/UL54_D588E/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_N898D/UL54_A1122T/UL54_P1154A/UL54_884a/UL97_L595S,smith_il_high-level_1997
+patient_observations,unparseable mutation token,UL54_A885,UL54_S655L/UL54_N685S/UL54_A885/UL54_N898D/UL97_L595S,smith_il_high-level_1997
+patient_observations,unparseable mutation token,UL54_S655,UL54_S655/UL54_N685S/UL97_L595T,smith_il_high-level_1997
+patient_observations,unparseable mutation token,UL54_884a,UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_884a/UL97_C592G,cherrington_jm_vitro_1998
+patient_observations,unparseable mutation token,UL54_884a,UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_L802M/UL54_A885T/UL54_884a/UL97_C603W,cherrington_jm_vitro_1998
+patient_observations,unparseable mutation token,UL54_V715,UL54_V715/UL97_H469Y,battiwalla_m_leflunomide_2007
+phenotype_overall,entity excluded: unparseable component token,UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_884a/UL97_C592G,NA,NA
+phenotype_overall,entity excluded: unparseable component token,UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_L802M/UL54_A885T/UL54_884a/UL97_C603W,NA,NA
+phenotype_overall,entity excluded: unparseable component token,UL54_K513E/UL54_D588E/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_N898D/UL54_A1122T/UL54_P1154A/UL54_884a/UL97_L595S,NA,NA
+phenotype_overall,entity excluded: unparseable component token,UL54_S655/UL54_N685S/UL97_L595T,NA,NA
+phenotype_overall,entity excluded: unparseable component token,UL54_S655L/UL54_N685S/UL54_A885/UL54_N898D/UL97_L595S,NA,NA

@@ -1,0 +1,16 @@
+# generated site payload (built in CI, deployed to Pages)
+site/data/
+
+# build report (regenerated every run)
+BUILD_REPORT.md
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS / editor
+.DS_Store
+*~
+preview.html

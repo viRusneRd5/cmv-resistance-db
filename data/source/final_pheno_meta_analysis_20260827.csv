@@ -1,0 +1,1336 @@
+Gene_Mutation,Drug,bibtex_list_meta,k,estimate,ci_lb,ci_ub,tau2,I2,pval,se,zval,bibtex_list_geo,n_studies,n_vals,geometric_mean,reported_EC50_ratio,Overall_EC50_Ratio,level_of_resistance
+UL104_L21F,Ganciclovir,komazin_g_role_2004,2,0.818083083,0.009101499,73.53293831,0.241853082,96.44385537,0.671562943,0.354041582,-0.567140667,komazin_g_role_2004,1,2,0.823272602,NA,0.818083083,Susceptible
+UL104_L21F,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,komazin_g_role_2004,1,1,NA,1,1,Susceptible
+UL27_A269T,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,2,2,Low
+UL27_A406V/UL27_C415*,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_mutations_2004,1,1,NA,3.545454545,3.545454545,Low
+UL27_D361E,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hakki_m_resistance_2011,1,1,NA,0.8,0.8,Susceptible
+UL27_D534Y,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_effects_2012,1,1,NA,1.5,1.5,Susceptible
+UL27_DEL1-497,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_mutations_2004,1,1,NA,3.181818182,3.181818182,Low
+UL27_DEL218,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,2.421052632,2.421052632,Low
+UL27_DEL301-310/UL27_311FS,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,3.052631579,3.052631579,Low
+UL27_E22*,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,2,2,Low
+UL27_G344D,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,0.916666667,0.916666667,Susceptible
+UL27_K89N,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hakki_m_resistance_2011,1,1,NA,1.3,1.3,Susceptible
+UL27_L193F,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,2.526315789,2.526315789,Low
+UL27_L426F,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,2.210526316,2.210526316,Low
+UL27_N289D/UL27_D298G/UL27_N300G/UL27_P307L/UL27_V310A/UL27_D351N/UL27_I367V,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,0.884210526,0.884210526,Susceptible
+UL27_R233S,Maribavir,"chou_s_effects_2012, chou_s_mutations_2004, chou_s_antiviral_2018",3,2.369185299,0.577752811,9.715294969,0.287057683,93.59083341,0.119263237,0.327973321,2.629927759,"chou_s_effects_2012, chou_s_mutations_2004, chou_s_antiviral_2018",3,3,2.428653585,NA,2.369185299,Low
+UL27_R233S/UL97_L337M,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_effects_2012,1,1,NA,6.583333333,6.583333333,Medium
+UL27_R233S/UL97_S334G,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_effects_2012,1,1,NA,1.833333333,1.833333333,Susceptible
+UL27_R233S/UL97_V353A,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_effects_2012,1,1,NA,24.5,24.5,High
+UL27_R448P,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_effects_2012,1,1,NA,1.7,1.7,Susceptible
+UL27_V353E,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,2.105263158,2.105263158,Low
+UL27_W153R,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,1.684210526,1.684210526,Susceptible
+UL27_W362*,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_diverse_2009,1,1,NA,2.5,2.5,Low
+UL27_W362R,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_mutations_2004,1,1,NA,1.909090909,1.909090909,Susceptible
+UL51_A95V,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,muller_c_first_2022,1,1,NA,13.77578898,13.77578898,Medium
+UL51_A95V/UL56_L257I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,muller_c_first_2022,1,1,NA,127.8332548,127.8332548,High
+UL51_D12E,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,muller_c_first_2022,1,1,NA,1.421573245,1.421573245,Susceptible
+UL51_D12E/UL56_C325F,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,muller_c_first_2022,1,1,NA,1413.094677,1413.094677,High
+UL51_DEL17,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,muller_c_first_2022,1,1,NA,1.355628827,1.355628827,Susceptible
+UL51_P91S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,2.054054054,2.054054054,Low
+UL51_P91S/UL56_R369M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,124.3243243,124.3243243,High
+UL51_P91S/UL56_S229F,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,6.216216216,6.216216216,Medium
+UL51_P91S/UL56_S229F/UL56_L254F/UL56_L257I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,286.4864865,286.4864865,High
+UL51_P91S/UL56_V236M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,27.2972973,27.2972973,High
+UL51_P91S/UL89_D344E,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,4,4,Low
+UL51_V113L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,muller_c_first_2022,1,1,NA,1.510127179,1.510127179,Susceptible
+UL51_V113L/UL56_C325Y,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,muller_c_first_2022,1,1,NA,1413.094677,1413.094677,High
+UL54_A492D,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,1.361702128,1.361702128,Susceptible
+UL54_A492D,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,1.445224172,1.445224172,Susceptible
+UL54_A492D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,1.350649351,1.350649351,Susceptible
+UL54_A505G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,horsten_dynamics_2025,1,1,NA,1.4,1.4,Susceptible
+UL54_A505G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,horsten_dynamics_2025,1,1,NA,1.2,1.2,Susceptible
+UL54_A505G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,horsten_dynamics_2025,1,1,NA,1.3,1.3,Susceptible
+UL54_A505V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2014, horsten_dynamics_2025",2,2,2.154729018,NA,2.154729018,Low
+UL54_A505V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2014, horsten_dynamics_2025",2,2,1.87913067,NA,1.87913067,Susceptible
+UL54_A505V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2014, horsten_dynamics_2025",2,2,0.972704398,NA,0.972704398,Susceptible
+UL54_A543P,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_new_2018,1,1,NA,13.46153846,13.46153846,Medium
+UL54_A543P,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_new_2018,1,1,NA,0.571428571,0.571428571,Susceptible
+UL54_A543P,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_new_2018,1,1,NA,4.736434109,4.736434109,Low
+UL54_A543S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1,1,Susceptible
+UL54_A543S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.974358974,0.974358974,Susceptible
+UL54_A543S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.009433962,1.009433962,Susceptible
+UL54_A543V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,10,10,Medium
+UL54_A543V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1.21,1.21,Susceptible
+UL54_A543V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1.5,1.5,Susceptible
+UL54_A594T/UL54_V715M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zhang_thioxothiazolo34-quinazoline_2023,1,1,NA,7.339805825,7.339805825,Medium
+UL54_A614S,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_drug-resistant_2010,1,1,NA,Susceptible,Susceptible,Susceptible
+UL54_A635T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.457627119,1.457627119,Susceptible
+UL54_A692G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.904761905,0.904761905,Susceptible
+UL54_A692G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1,1,Susceptible
+UL54_A692G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.811320755,0.811320755,Susceptible
+UL54_A692S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,1.7,1.7,Susceptible
+UL54_A692S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,3.3,3.3,Low
+UL54_A692S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,1.6,1.6,Susceptible
+UL54_A692V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.166666667,1.166666667,Susceptible
+UL54_A692V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.317073171,1.317073171,Susceptible
+UL54_A692V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.2,1.2,Susceptible
+UL54_A714V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,0.722222222,0.722222222,Susceptible
+UL54_A714V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,0.75,0.75,Susceptible
+UL54_A714V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,0.796610169,0.796610169,Susceptible
+UL54_A719T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,2.464285714,2.464285714,Low
+UL54_A719T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,2.363636364,2.363636364,Low
+UL54_A809V,Cidofovir,"chou_s_phenotypic_2011, chou_s_growth_2007, chou_s_opposite_2021",3,1.905839944,1.762059477,2.061352603,5.14937758549352e-07,0.020059661,0.000798108,0.018230508,35.37602097,"chou_s_phenotypic_2011, chou_s_growth_2007, chou_s_opposite_2021, drew_wl_maribavir_2006, chou_s_cytomegalovirus_2014",5,6,1.573952344,NA,1.905839944,Susceptible
+UL54_A809V,Ganciclovir,"chou_s_phenotypic_2011, chou_s_growth_2007",2,2.208150816,0.7782031,6.265626577,0.010579467,75.81926595,0.06572932,0.082079833,9.651036063,"chou_s_phenotypic_2011, chou_s_growth_2007, drew_wl_maribavir_2006, chou_s_cytomegalovirus_2014",4,5,1.762717158,NA,2.208150816,Low
+UL54_A809V,Foscarnet,"chou_s_phenotypic_2011, chou_s_growth_2007, chou_s_foscarnet_2017, chou_s_improved_2014, chou_s_novel_2016, chou_s_phenotypic_2014",7,3.808398331,3.443515819,4.211944598,0.008751261,78.26799219,5.65613159505606e-08,0.041160341,32.48779509,"chou_s_phenotypic_2011, chou_s_growth_2007, chou_s_foscarnet_2017, chou_s_improved_2014, chou_s_novel_2016, chou_s_phenotypic_2014, drew_wl_maribavir_2006, chou_s_cytomegalovirus_2014",8,10,3.821578462,NA,3.808398331,Low
+UL54_A809V,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drew_wl_maribavir_2006,1,2,0.282842712,NA,0.282842712,Susceptible
+UL54_A809V/UL54_S897L/UL54_N898D,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_mutation_1997,1,1,NA,1.7,1.7,Susceptible
+UL54_A809V/UL54_S897L/UL54_N898D,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_mutation_1997,1,1,NA,6.3,6.3,Medium
+UL54_A809V/UL54_S897L/UL54_N898D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_mutation_1997,1,1,NA,2.6,2.6,Low
+UL54_A809V/UL97_A594V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_mutation_1997,1,1,NA,1.1,1.1,Susceptible
+UL54_A809V/UL97_A594V/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_mutation_1997,1,1,NA,3.4,3.4,Low
+UL54_A809V/UL97_A594V/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_mutation_1997,1,1,NA,15,15,High
+UL54_A809V/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,2.045454545,2.045454545,Low
+UL54_A809V/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,3.341463415,3.341463415,Low
+UL54_A809V/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,5.545454545,5.545454545,Medium
+UL54_A809V/UL97_M460V/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_mutation_1997,1,1,NA,4.6,4.6,Low
+UL54_A809V/UL97_M460V/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_mutation_1997,1,1,NA,13.3,13.3,Medium
+UL54_A834P,Cidofovir,scott_gm_multidrug_2007,3,3.822241097,1.144570355,12.76420181,0.19530753,78.93812609,0.041016004,0.280247482,4.784474475,scott_gm_multidrug_2007,1,3,3.716491598,NA,3.822241097,Low
+UL54_A834P,Ganciclovir,scott_gm_multidrug_2007,3,4.291245553,1.129973787,16.29665096,0.218786709,82.39009664,0.042466822,0.31013021,4.69666283,scott_gm_multidrug_2007,1,3,4.066090071,NA,4.291245553,Low
+UL54_A834P,Foscarnet,scott_gm_multidrug_2007,3,7.224722741,5.134129314,10.16659603,0.004783208,15.77918735,0.001607956,0.079392554,24.907989,scott_gm_multidrug_2007,1,3,6.535460416,NA,7.224722741,Medium
+UL54_A834P/UL54_A987G/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,strasfeld_l_virologic_2010,1,2,14.55403724,NA,14.55403724,Medium
+UL54_A885T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_f_ganciclovir_1998,1,1,NA,1.1,1.1,Susceptible
+UL54_A885T/UL54_R1052C,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lanier_er_analysis_2016,1,1,NA,1.130434783,1.130434783,Susceptible
+UL54_A885T/UL54_R1052C,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lanier_er_analysis_2016,1,1,NA,1,1,Susceptible
+UL54_A885T/UL54_R1052C,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lanier_er_analysis_2016,1,1,NA,0.875968992,0.875968992,Susceptible
+UL54_A885T/UL97_C607Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_f_ganciclovir_1998,1,1,NA,10,10,Medium
+UL54_A928T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,3,3,Low
+UL54_A928T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,3,3,Low
+UL54_A928T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,3,3,Low
+UL54_A972V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,0.833333333,0.833333333,Susceptible
+UL54_A972V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,0.926829268,0.926829268,Susceptible
+UL54_A972V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.045454545,1.045454545,Susceptible
+UL54_A987G,Ganciclovir,"chou_s_phenotypic_2011, chou_s_phenotypic_2014, james_sh_cyclopropavir_2011, chou_s_recombinant_2010-1, mercorelli_6-aminoquinolone_2009",5,5.670772794,4.913344833,6.544963803,0.002034649,9.864662875,4.6768191336274e-06,0.051638141,33.60549691,"chou_s_phenotypic_2011, chou_s_phenotypic_2014, chou_s_cytomegalovirus_2014, james_sh_cyclopropavir_2011, cihlar_t_characterization_1998, chou_s_recombinant_2010-1, mercorelli_6-aminoquinolone_2009",7,7,6.076617999,NA,5.670772794,Medium
+UL54_A987G,Cidofovir,"chou_s_phenotypic_2011, chou_s_foscarnet_2017, chou_s_improved_2014, chou_s_opposite_2021, chou_s_phenotypic_2014, james_sh_cyclopropavir_2011",7,5.831089279,4.611155729,7.373770087,0.057000891,89.32018622,1.67134144172956e-06,0.095927157,18.3806534,"chou_s_phenotypic_2011, chou_s_foscarnet_2017, chou_s_improved_2014, chou_s_opposite_2021, chou_s_phenotypic_2014, chou_s_cytomegalovirus_2014, james_sh_cyclopropavir_2011, cihlar_t_characterization_1998",8,9,6.117853653,NA,5.831089279,Medium
+UL54_A987G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, chou_s_cytomegalovirus_2014, cihlar_t_characterization_1998",3,3,1,NA,1,Susceptible
+UL54_A987G/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drew_wl_maribavir_2006,1,1,NA,1.3,1.3,Susceptible
+UL54_A987G/UL97_C592G,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drew_wl_maribavir_2006,1,1,NA,0.5,0.5,Susceptible
+UL54_A987G/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"hantz_s_drug-resistant_2010, drew_wl_maribavir_2006",2,2,7.071067812,NA,7.071067812,Medium
+UL54_A987G/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"hantz_s_drug-resistant_2010, drew_wl_maribavir_2006",2,2,1.843908891,NA,1.843908891,Susceptible
+UL54_A987G/UL97_DEL638-641,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mercorelli_6-aminoquinolone_2009,1,1,NA,6.052631579,6.052631579,Medium
+UL54_A987G/UL97_R566L/UL97_DEL580-581/UL97_A582E/UL97_L583A/UL97_DEL590-593,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,2.571428571,2.571428571,Low
+UL54_A987G/UL97_R566L/UL97_DEL580-581/UL97_A582E/UL97_L583A/UL97_DEL590-593,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,31.81818182,31.81818182,High
+UL54_A987V,Cidofovir,"chou_s_drug_2022, chou_s_opposite_2021",2,0.896695733,0.719884032,1.116934398,0,0,0.100085134,0.017284978,-6.308291541,"chou_s_drug_2022, chou_s_opposite_2021",2,2,0.900498438,NA,0.896695733,Susceptible
+UL54_A987V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,3.135135135,3.135135135,Low
+UL54_A987V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,0.868852459,0.868852459,Susceptible
+UL54_C304S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,1.388888889,1.388888889,Susceptible
+UL54_C304S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,1.1,1.1,Susceptible
+UL54_C304S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,1.347457627,1.347457627,Susceptible
+UL54_C524R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.245762712,1.245762712,Susceptible
+UL54_C539G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,4.227272727,4.227272727,Low
+UL54_C539G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,1,1,Susceptible
+UL54_C539G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,3.115044248,3.115044248,Low
+UL54_C539R,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.1,1.1,Susceptible
+UL54_C539R,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,8.154753215,NA,8.154753215,Medium
+UL54_C539R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,3,3.539737604,NA,3.539737604,Low
+UL54_C539R,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,0.591607978,NA,0.591607978,Susceptible
+UL54_C539R/UL54_F595I/UL97_G598D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,28,28,High
+UL54_C539R/UL54_F595I/UL97_H520Q,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,6.3,6.3,Medium
+UL54_C539R/UL54_F595I/UL97_H520Q,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,2,68.27151675,NA,68.27151675,High
+UL54_C539R/UL54_F595I/UL97_H520Q,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,2,9.808159868,NA,9.808159868,Medium
+UL54_C590F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.625,1.625,Susceptible
+UL54_C590F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,2.297297297,2.297297297,Low
+UL54_C590F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.62295082,1.62295082,Susceptible
+UL54_D247N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.904761905,0.904761905,Susceptible
+UL54_D247N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.333333333,1.333333333,Susceptible
+UL54_D247N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.943396226,0.943396226,Susceptible
+UL54_D262N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.047619048,1.047619048,Susceptible
+UL54_D262N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.153846154,1.153846154,Susceptible
+UL54_D262N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.094339623,1.094339623,Susceptible
+UL54_D288N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.142857143,1.142857143,Susceptible
+UL54_D288N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.153846154,1.153846154,Susceptible
+UL54_D288N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.198113208,1.198113208,Susceptible
+UL54_D301N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_viral_2003, chou_s_opposite_2021, chou_s_cytomegalovirus_2014",3,3,5.027033067,NA,5.027033067,Medium
+UL54_D301N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_viral_2003, chou_s_cytomegalovirus_2014",2,2,2.792848009,NA,2.792848009,Low
+UL54_D301N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_viral_2003, chou_s_cytomegalovirus_2014",2,2,0.707106781,NA,0.707106781,Susceptible
+UL54_D301N/UL54_V355A/UL54_S663N/UL54_A688V/UL54_T691S/UL54_T1122A/UL54_P1154A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,7.3,7.3,Medium
+UL54_D301N/UL54_V355A/UL54_S663N/UL54_A688V/UL54_T691S/UL54_T1122A/UL54_P1154A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,1,1,Susceptible
+UL54_D301N/UL54_V355A/UL54_S663N/UL54_A688V/UL54_T691S/UL54_T1122A/UL54_P1154A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,5.6,5.6,Medium
+UL54_D413A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,marfori_je_development_2007,1,1,NA,10.90909091,10.90909091,Medium
+UL54_D413A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,marfori_je_development_2007,1,1,NA,0.8,0.8,Susceptible
+UL54_D413A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,marfori_je_development_2007,1,1,NA,6.454545455,6.454545455,Medium
+UL54_D413E,Foscarnet,"chevillotte_m_differentiation_2010, chevillotte_m_fluorescence-based_2009",2,0.907632097,0.619974467,1.328757985,0,0,0.191095787,0.029998007,-3.23075334,"chou_s_viral_2003, chevillotte_m_differentiation_2010, chevillotte_m_fluorescence-based_2009",3,3,0.856813316,NA,0.907632097,Susceptible
+UL54_D413E,Ganciclovir,"chevillotte_m_differentiation_2010, chevillotte_m_fluorescence-based_2009",2,4.661122727,2.133884277,10.18146359,0,0,0.02541834,0.061490621,25.03237588,"chou_s_viral_2003, chevillotte_m_differentiation_2010, chevillotte_m_fluorescence-based_2009",3,3,4.509991517,NA,4.661122727,Low
+UL54_D413E,Cidofovir,"chevillotte_m_differentiation_2010, chevillotte_m_fluorescence-based_2009",2,13.60905559,4.025039187,46.01356298,0,0,0.023368195,0.09587448,27.23076478,"chou_s_viral_2003, chevillotte_m_differentiation_2010, chevillotte_m_fluorescence-based_2009",3,3,9.253611025,NA,13.60905559,Medium
+UL54_D413E/UL54_E756K,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,19.77777778,19.77777778,High
+UL54_D413E/UL54_E756K,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,6,6,Medium
+UL54_D413E/UL54_E756K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,3.863636364,3.863636364,Low
+UL54_D413N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,9.227272727,9.227272727,Medium
+UL54_D413N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,1.066666667,1.066666667,Susceptible
+UL54_D413N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,3.82300885,3.82300885,Low
+UL54_D413Y,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,9.473684211,9.473684211,Medium
+UL54_D413Y,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,1,1,Susceptible
+UL54_D413Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,4.545454545,4.545454545,Low
+UL54_D515E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2015,1,1,NA,1.617021277,1.617021277,Susceptible
+UL54_D515E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2015,1,1,NA,1.07797271,1.07797271,Susceptible
+UL54_D515E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2015,1,1,NA,2.354978355,2.354978355,Low
+UL54_D515E/UL54_L516M/UL54_I521T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2015, fischer_generation_2015",2,2,4.030151512,NA,4.030151512,Low
+UL54_D515E/UL54_L516M/UL54_I521T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2015, fischer_generation_2015",2,2,2.877203134,NA,2.877203134,Low
+UL54_D515E/UL54_L516M/UL54_I521T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2015, fischer_generation_2015",2,2,1.049561312,NA,1.049561312,Susceptible
+UL54_D515E/UL54_L516M/UL54_I521T/UL54_L802M/UL97_A591V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,eckle_t_rapid_2002,1,1,NA,9.1,9.1,Medium
+UL54_D515E/UL54_L516M/UL54_I521T/UL54_L802M/UL97_A591V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,eckle_t_rapid_2002,1,1,NA,9.2,9.2,Medium
+UL54_D515E/UL54_L516M/UL54_I521T/UL54_L802M/UL97_A591V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,eckle_t_rapid_2002,1,1,NA,14.5,14.5,Medium
+UL54_D515E/UL54_L516M/UL54_I521T/UL54_L802M/UL97_M460I/UL97_A591V/UL97_C603W,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,eckle_t_rapid_2002,1,1,NA,10,10,Medium
+UL54_D515E/UL54_L516M/UL54_I521T/UL54_L802M/UL97_M460I/UL97_A591V/UL97_C603W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,eckle_t_rapid_2002,1,1,NA,6.5,6.5,Medium
+UL54_D515E/UL54_L516M/UL54_I521T/UL54_L802M/UL97_M460I/UL97_A591V/UL97_C603W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,eckle_t_rapid_2002,1,1,NA,14.5,14.5,Medium
+UL54_D515E/UL54_L516M/UL54_I521T/UL97_A591V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,1.087329435,1.087329435,Susceptible
+UL54_D515E/UL54_L516M/UL54_I521T/UL97_A591V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2016, fischer_generation_2015",2,2,13.31665624,NA,13.31665624,Medium
+UL54_D515E/UL54_L516M/UL54_I521T/UL97_A591V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2016, fischer_generation_2015",2,2,6.128829675,NA,6.128829675,Medium
+UL54_D515G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,1,1,Susceptible
+UL54_D515G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,1.2,1.2,Susceptible
+UL54_D515G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,1,1,Susceptible
+UL54_D515Y,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,andouard_d_contrasting_2016,1,1,NA,4.7,4.7,Low
+UL54_D515Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,andouard_d_contrasting_2016,1,1,NA,6.2,6.2,Medium
+UL54_D515Y,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_drug-resistant_2010,1,1,NA,Susceptible,Susceptible,Susceptible
+UL54_D515Y,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_opposite_2021, andouard_d_contrasting_2016",2,2,1.393114938,NA,1.393114938,Susceptible
+UL54_D542E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_selection_2013,1,2,9.618822127,NA,9.618822127,Medium
+UL54_D542E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_selection_2013,1,2,1.331280471,NA,1.331280471,Susceptible
+UL54_D542E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_selection_2013,1,2,1.059245014,NA,1.059245014,Susceptible
+UL54_D576G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.254237288,1.254237288,Susceptible
+UL54_D588E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,1.1,1.1,Susceptible
+UL54_D588E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,2.3,2.3,Low
+UL54_D588E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,1.3,1.3,Susceptible
+UL54_D588N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, springer_kl_how_2005, mousavi-jazi_m_variations_2001",3,3,4.336271512,NA,4.336271512,Low
+UL54_D588N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, springer_kl_how_2005",2,2,1.897366596,NA,1.897366596,Susceptible
+UL54_D588N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, springer_kl_how_2005, mousavi-jazi_m_variations_2001",3,3,1.825161054,NA,1.825161054,Susceptible
+UL54_D588N/UL54_P628L/UL54_INS884_S/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,6.4,6.4,Medium
+UL54_D588N/UL54_P628L/UL54_INS884_S/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,13.5,13.5,Medium
+UL54_D594N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,1,1,Susceptible
+UL54_D594N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,0.972972973,0.972972973,Susceptible
+UL54_D594N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,1.049180328,1.049180328,Susceptible
+UL54_D879G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,0.9,0.9,Susceptible
+UL54_D879G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,0.9,0.9,Susceptible
+UL54_D879G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.2,1.2,Susceptible
+UL54_DEL413,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,7.368421053,7.368421053,Medium
+UL54_DEL413,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,1.081967213,1.081967213,Susceptible
+UL54_DEL413,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,3.636363636,3.636363636,Low
+UL54_DEL524,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_novel_2013,1,1,NA,6.25,6.25,Medium
+UL54_DEL524,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_novel_2013,1,1,NA,1.060267857,1.060267857,Susceptible
+UL54_DEL524,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_novel_2013,1,1,NA,3.568181818,3.568181818,Low
+UL54_DEL981-982,Maribavir,chou_s_antiviral_2018,2,1.025062448,0.602747231,1.743273081,0,0,0.659569801,0.041791463,0.592310819,"drew_wl_maribavir_2006, chou_s_antiviral_2018",2,3,0.870658769,NA,1.025062448,Susceptible
+UL54_DEL981-982,Foscarnet,"chou_s_new_2018, chou_s_drug_2022, chou_s_deletion_2000, chou_s_antiviral_2018, chou_drug_2024",6,3.132396737,2.944458106,3.332331099,1.48438767890887e-06,0.032347282,7.8643423021207e-08,0.0240699,47.43677619,"chou_s_new_2018, chou_s_drug_2022, chou_s_viral_2003, drew_wl_maribavir_2006, chou_s_deletion_2000, chou_s_antiviral_2018, chou_drug_2024, horsten_dynamics_2025",8,9,3.171700935,NA,3.132396737,Low
+UL54_DEL981-982,Cidofovir,"chou_s_new_2018, chou_s_drug_2022, chou_s_opposite_2021, chou_s_deletion_2000, chou_s_antiviral_2018, chou_drug_2024",7,3.737935156,3.282975627,4.255943637,0.009989255,72.88681813,2.78830712464836e-07,0.053039568,24.85942883,"chou_s_new_2018, chou_s_drug_2022, chou_s_viral_2003, chou_s_opposite_2021, drew_wl_maribavir_2006, chou_s_deletion_2000, chou_s_antiviral_2018, chou_drug_2024, horsten_dynamics_2025",9,10,3.643565698,NA,3.737935156,Low
+UL54_DEL981-982,Ganciclovir,"chou_s_new_2018, chou_s_drug_2022, chou_s_deletion_2000, chou_drug_2024",5,6.739655529,6.000312818,7.570098099,0.002243757,25.81184384,1.38440926331238e-06,0.041851075,45.5904379,"chou_s_new_2018, chou_s_drug_2022, chou_s_viral_2003, drew_wl_maribavir_2006, chou_s_deletion_2000, chou_drug_2024, horsten_dynamics_2025",7,8,6.631903442,NA,6.739655529,Medium
+UL54_DEL981-982/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotyping_2005,1,1,NA,5.695652174,5.695652174,Medium
+UL54_DEL981-982/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotyping_2005,1,1,NA,4.114285714,4.114285714,Low
+UL54_DEL981-982/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotyping_2005,1,1,NA,17.07692308,17.07692308,High
+UL54_DEL981-982/UL97_H587Y,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotyping_2005,1,1,NA,4.086956522,4.086956522,Low
+UL54_DEL981-982/UL97_H587Y,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotyping_2005,1,1,NA,3.542857143,3.542857143,Low
+UL54_DEL981-982/UL97_H587Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotyping_2005,1,1,NA,4.846153846,4.846153846,Low
+UL54_E303D,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,15.26315789,15.26315789,High
+UL54_E303D,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,0.819672131,0.819672131,Susceptible
+UL54_E303D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,6.545454545,6.545454545,Medium
+UL54_E303G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,19.47368421,19.47368421,High
+UL54_E303G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,0.754098361,0.754098361,Susceptible
+UL54_E303G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,7.545454545,7.545454545,Medium
+UL54_E303G/UL54_V812L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,33.68421053,33.68421053,High
+UL54_E303G/UL54_V812L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,1.360655738,1.360655738,Susceptible
+UL54_E303G/UL54_V812L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2016,1,1,NA,10.54545455,10.54545455,Medium
+UL54_E315D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,0.906779661,0.906779661,Susceptible
+UL54_E530G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.279661017,1.279661017,Susceptible
+UL54_E756D,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_viral_2003, chou_s_cyclopropavir_2012, chou_s_cytomegalovirus_2014",3,3,3.036032718,NA,3.036032718,Low
+UL54_E756D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_viral_2003, chou_s_cyclopropavir_2012, chou_s_cytomegalovirus_2014",3,3,1.100642416,NA,1.100642416,Susceptible
+UL54_E756D,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_viral_2003, chou_s_cyclopropavir_2012, chou_s_cytomegalovirus_2014",3,3,0.916565645,NA,0.916565645,Susceptible
+UL54_E756G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,park_analysis_2022,1,1,NA,1.9,1.9,Susceptible
+UL54_E756G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,park_analysis_2022,1,1,NA,8.831585082,8.831585082,Medium
+UL54_E756G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,park_analysis_2022,1,1,NA,0.966101695,0.966101695,Susceptible
+UL54_E756K,Cidofovir,"chevillotte_m_differentiation_2010, chou_s_phenotypic_2011, piret_j_drug_2017, drouot_e_characterization_2014, drouot_e_novel_2013, piret_j_compartmentalization_2019, chevillotte_m_fluorescence-based_2009",8,1.739843257,1.448122958,2.090329791,0.013329354,45.4381859,0.00018776,0.077613524,7.135290323,"chou_s_viral_2003, chevillotte_m_differentiation_2010, chou_s_phenotypic_2011, piret_j_drug_2017, drouot_e_characterization_2014, drouot_e_novel_2013, piret_j_compartmentalization_2019, chevillotte_m_fluorescence-based_2009",8,9,1.887643975,NA,1.739843257,Susceptible
+UL54_E756K,Ganciclovir,"chevillotte_m_differentiation_2010, chou_s_phenotypic_2011, piret_j_drug_2017, drouot_e_characterization_2014, drouot_e_novel_2013, piret_j_compartmentalization_2019, chevillotte_m_fluorescence-based_2009",8,2.78232072,1.535274822,5.04229502,0.482242093,96.3659823,0.004751634,0.251446279,4.069598388,"chou_s_viral_2003, chevillotte_m_differentiation_2010, chou_s_phenotypic_2011, piret_j_drug_2017, drouot_e_characterization_2014, drouot_e_novel_2013, piret_j_compartmentalization_2019, chevillotte_m_fluorescence-based_2009",8,9,2.915210041,NA,2.78232072,Low
+UL54_E756K,Foscarnet,"chevillotte_m_differentiation_2010, chou_s_phenotypic_2011, piret_j_drug_2017, drouot_e_characterization_2014, drouot_e_novel_2013, piret_j_compartmentalization_2019, chevillotte_m_fluorescence-based_2009",8,4.233013836,2.933448824,6.10830705,0.153449591,91.60653957,3.43611685426846e-05,0.155092474,9.303573472,"chou_s_viral_2003, chevillotte_m_differentiation_2010, chou_s_phenotypic_2011, piret_j_drug_2017, drouot_e_characterization_2014, drouot_e_novel_2013, piret_j_compartmentalization_2019, chevillotte_m_fluorescence-based_2009",8,9,4.603701247,NA,4.233013836,Low
+UL54_E756K,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_drug_2017,1,1,NA,1.46875,1.46875,Susceptible
+UL54_E756K/UL56_V236M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_drug_2017,1,1,NA,1.75,1.75,Susceptible
+UL54_E756K/UL56_V236M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_drug_2017,1,1,NA,2.780487805,2.780487805,Low
+UL54_E756K/UL56_V236M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_drug_2017,1,1,NA,4.1,4.1,Low
+UL54_E756K/UL56_V236M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_drug_2017,1,1,NA,34.375,34.375,High
+UL54_E756K/UL97_A594V,Cidofovir,"drouot_e_characterization_2014, drouot_e_novel_2013",3,1.74857276,0.489146005,6.250703603,0.225026421,85.25265035,0.19973119,0.296071801,1.887379639,"drouot_e_characterization_2014, drouot_e_novel_2013",2,3,1.816458764,NA,1.74857276,Susceptible
+UL54_E756K/UL97_A594V,Foscarnet,"drouot_e_characterization_2014, drouot_e_novel_2013",3,2.650846825,0.231053378,30.41283772,0.939171,96.50232212,0.227736672,0.567088682,1.719094696,"drouot_e_characterization_2014, drouot_e_novel_2013",2,3,2.688225359,NA,2.650846825,Low
+UL54_E756K/UL97_A594V,Ganciclovir,"drouot_e_characterization_2014, drouot_e_novel_2013",3,5.125212095,0.151882649,172.9479912,1.964450962,97.45771082,0.183749748,0.817825475,1.998191496,"drouot_e_characterization_2014, drouot_e_novel_2013",2,3,5.174677098,NA,5.125212095,Medium
+UL54_E793V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.666666667,0.666666667,Susceptible
+UL54_E793V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.153846154,1.153846154,Susceptible
+UL54_E793V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.867924528,0.867924528,Susceptible
+UL54_E903G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1,1,Susceptible
+UL54_E903G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.923076923,0.923076923,Susceptible
+UL54_E903G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.141509434,1.141509434,Susceptible
+UL54_E951D,Cidofovir,chou_s_foscarnet_2017,2,1.07620388,0.655327749,1.767382493,0,0,0.311057357,0.039040746,1.88110963,chou_s_foscarnet_2017,1,2,1.118631708,NA,1.07620388,Susceptible
+UL54_E951D,Ganciclovir,chou_s_foscarnet_2017,2,2.031364814,0.392503347,10.51314095,0.01879046,55.01401253,0.11495316,0.129379161,5.477759215,chou_s_foscarnet_2017,1,2,1.994310088,NA,2.031364814,Low
+UL54_E951D,Foscarnet,chou_s_foscarnet_2017,2,4.081464662,1.78654258,9.324353068,0.004235416,48.90146812,0.029410363,0.065021279,21.63070216,chou_s_foscarnet_2017,1,2,4.123056148,NA,4.081464662,Low
+UL54_E989D,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,1.916666667,1.916666667,Susceptible
+UL54_E989D,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,5.756756757,5.756756757,Medium
+UL54_E989D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,3.204918033,3.204918033,Low
+UL54_F357L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.169491525,1.169491525,Susceptible
+UL54_F396L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.952380952,0.952380952,Susceptible
+UL54_F396L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.897435897,0.897435897,Susceptible
+UL54_F396L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.424528302,1.424528302,Susceptible
+UL54_F412C,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_opposite_2021, cihlar_t_characterization_1998, chou_s_evolution_1997",3,3,14.56167516,NA,14.56167516,Medium
+UL54_F412C,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cihlar_t_characterization_1998, chou_s_evolution_1997",2,2,3.888444419,NA,3.888444419,Low
+UL54_F412C,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cihlar_t_characterization_1998, chou_s_evolution_1997",2,2,1.732050808,NA,1.732050808,Susceptible
+UL54_F412C/UL54_L802M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,16,16,High
+UL54_F412C/UL54_L802M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,3.1,3.1,Low
+UL54_F412C/UL54_L802M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,6.2,6.2,Medium
+UL54_F412C/UL54_L802M/UL97_C603W,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_evolution_1997,1,1,NA,60,60,High
+UL54_F412C/UL54_L802M/UL97_C603W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_evolution_1997,1,1,NA,6.4,6.4,Medium
+UL54_F412C/UL54_L802M/UL97_C603W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_evolution_1997,1,1,NA,50,50,High
+UL54_F412C/UL54_P628L/UL54_INS884_S/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,5.3,5.3,Medium
+UL54_F412C/UL54_P628L/UL54_INS884_S/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,20.6,20.6,High
+UL54_F412C/UL54_P628L/UL54_L802M/UL54_INS884_S/UL97_H469Y/UL97_C603W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,9.7,9.7,Medium
+UL54_F412C/UL54_P628L/UL54_L802M/UL54_INS884_S/UL97_H469Y/UL97_C603W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,20.6,20.6,High
+UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_884a/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,7.3,7.3,Medium
+UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_884a/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.5,1.5,Susceptible
+UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_884a/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,8,8,Medium
+UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_L802M/UL54_A885T/UL54_884a/UL97_C603W,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,8,8,Medium
+UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_L802M/UL54_A885T/UL54_884a/UL97_C603W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,4.5,4.5,Low
+UL54_F412C/UL54_P628L/UL54_S655L/UL54_N685S/UL54_L802M/UL54_A885T/UL54_884a/UL97_C603W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,11.4,11.4,Medium
+UL54_F412C/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_evolution_1997,1,1,NA,7,7,Medium
+UL54_F412C/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_evolution_1997,1,1,NA,1.3,1.3,Susceptible
+UL54_F412C/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_evolution_1997,1,1,NA,36,36,High
+UL54_F412L,Cidofovir,"chou_s_phenotypic_2011, chou_s_opposite_2021",2,10.79120821,2.006684299,58.03113861,0.02155126,61.47152481,0.035396553,0.132395788,17.96682342,"chou_s_phenotypic_2011, chou_s_opposite_2021, chou_s_cytomegalovirus_2014",3,3,10.15153817,NA,10.79120821,Medium
+UL54_F412L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, chou_s_cytomegalovirus_2014",2,2,4.770140175,NA,4.770140175,Low
+UL54_F412L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, chou_s_cytomegalovirus_2014",2,2,1.024695077,NA,1.024695077,Susceptible
+UL54_F412S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,13.05555556,13.05555556,Medium
+UL54_F412S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,0.85,0.85,Susceptible
+UL54_F412S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,5.296610169,5.296610169,Medium
+UL54_F412V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"lurain_ns_point_1992, cihlar_t_characterization_1998",2,3,14.01359224,NA,14.01359224,Medium
+UL54_F412V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"lurain_ns_point_1992, cihlar_t_characterization_1998",2,3,12.29808946,NA,12.29808946,Medium
+UL54_F412V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"lurain_ns_point_1992, cihlar_t_characterization_1998",2,3,1.018328674,NA,1.018328674,Susceptible
+UL54_F460L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.19047619,1.19047619,Susceptible
+UL54_F460L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.205128205,1.205128205,Susceptible
+UL54_F460L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.20754717,1.20754717,Susceptible
+UL54_F460S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,0.88,0.88,Susceptible
+UL54_F460S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1.11,1.11,Susceptible
+UL54_F460S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,0.86,0.86,Susceptible
+UL54_F595I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.2,1.2,Susceptible
+UL54_F595I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,2,2,Low
+UL54_F595I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.3,1.3,Susceptible
+UL54_G347D/UL54_L501F/UL54_S655L/UL54_N685S/UL54_L890F/UL54_N898D/UL54_N1147F/UL97_I244V/UL97_L595F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,4.571428571,4.571428571,Low
+UL54_G347D/UL54_L501F/UL54_S655L/UL54_N685S/UL54_L890F/UL54_N898D/UL54_N1147F/UL97_I244V/UL97_L595F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,42.18181818,42.18181818,High
+UL54_G441S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1,1,Susceptible
+UL54_G441S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1.13,1.13,Susceptible
+UL54_G441S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,0.67,0.67,Susceptible
+UL54_G667N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.80952381,0.80952381,Susceptible
+UL54_G667N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1,1,Susceptible
+UL54_G667N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.858490566,0.858490566,Susceptible
+UL54_G841A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,2.636363636,2.636363636,Low
+UL54_G841A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,4.292682927,4.292682927,Low
+UL54_G841A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,3.181818182,3.181818182,Low
+UL54_G841A/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,3.045454545,3.045454545,Low
+UL54_G841A/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,5.195121951,5.195121951,Medium
+UL54_G841A/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,7.636363636,7.636363636,Medium
+UL54_G841S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.047619048,1.047619048,Susceptible
+UL54_G841S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,2.128205128,2.128205128,Low
+UL54_G841S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,2.169811321,2.169811321,Low
+UL54_G971D,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,1,1,Susceptible
+UL54_G971D,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,1.2,1.2,Susceptible
+UL54_G971D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,1.4,1.4,Susceptible
+UL54_G987A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,beadle_alkoxyalkyl_2002,1,1,NA,23.08823529,23.08823529,High
+UL54_G987A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,beadle_alkoxyalkyl_2002,1,1,NA,15.12465374,15.12465374,High
+UL54_G987A/UL97_DEL590-593,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,beadle_alkoxyalkyl_2002,1,1,NA,2.941176471,2.941176471,Low
+UL54_G987A/UL97_DEL590-593,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,beadle_alkoxyalkyl_2002,1,1,NA,49.03047091,49.03047091,High
+UL54_G993D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.110169492,1.110169492,Susceptible
+UL54_H600L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,park_analysis_2022,1,1,NA,5.1,5.1,Medium
+UL54_H600L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,park_analysis_2022,1,1,NA,5.201048951,5.201048951,Medium
+UL54_H600L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,park_analysis_2022,1,1,NA,11.13559322,11.13559322,Medium
+UL54_H600L/UL54_T700A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,park_analysis_2022,1,1,NA,0.8,0.8,Susceptible
+UL54_H600L/UL54_T700A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,park_analysis_2022,1,1,NA,36.97552448,36.97552448,High
+UL54_H600L/UL54_T700A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,park_analysis_2022,1,1,NA,1.406779661,1.406779661,Susceptible
+UL54_I484V/UL54_K513R/UL54_E756D/UL54_L776M/UL56_A464T/UL56_DEL446,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,5.5,5.5,Medium
+UL54_I484V/UL54_K513R/UL54_E756D/UL54_L776M/UL56_A464T/UL56_DEL446,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,5.3,5.3,Medium
+UL54_I484V/UL54_K513R/UL54_E756D/UL54_L776M/UL56_A464T/UL56_DEL446,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,5.9,5.9,Medium
+UL54_I484V/UL54_K513R/UL54_E756D/UL54_L776M/UL56_A464T/UL56_DEL446,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.3,1.3,Susceptible
+UL54_I521T,Foscarnet,"chou_s_contrasting_2008, fischer_l_identification_2015",2,0.919373264,0.763127831,1.107608928,0,0,0.109912894,0.014659503,-5.734374105,"chou_s_contrasting_2008, fischer_l_identification_2015",2,2,0.952093211,NA,0.919373264,Susceptible
+UL54_I521T,Ganciclovir,"chou_s_contrasting_2008, fischer_l_identification_2015",2,2.611133388,0.215605479,31.62265451,0.063246301,80.21807279,0.128426519,0.196289093,4.889647004,"chou_s_contrasting_2008, fischer_l_identification_2015",2,2,2.534298373,NA,2.611133388,Low
+UL54_I521T,Cidofovir,"chou_s_contrasting_2008, fischer_l_identification_2015",2,3.938579286,2.333657777,6.647250055,0,0,0.019123744,0.041191149,33.27948124,"chou_s_contrasting_2008, fischer_l_identification_2015",2,2,4.392714207,NA,3.938579286,Low
+UL54_I521T/UL54_L802M/UL97_D515E/UL97_L516M/UL97_A591V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_generation_2013,1,1,NA,4.109604137,4.109604137,Low
+UL54_I521T/UL54_L802M/UL97_D515E/UL97_L516M/UL97_A591V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_generation_2013,1,1,NA,15.15151515,15.15151515,High
+UL54_I580K,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,1.142857143,1.142857143,Susceptible
+UL54_I580K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,2.090909091,2.090909091,Low
+UL54_I726T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.714285714,1.714285714,Susceptible
+UL54_I726T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.076923077,1.076923077,Susceptible
+UL54_I726T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,2.018867925,2.018867925,Low
+UL54_I726V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.904761905,1.904761905,Susceptible
+UL54_I726V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.153846154,1.153846154,Susceptible
+UL54_I726V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.943396226,1.943396226,Susceptible
+UL54_I837V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,0.813559322,0.813559322,Susceptible
+UL54_I966V/UL56_V471A/UL56_V476A/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.5,1.5,Susceptible
+UL54_I966V/UL56_V471A/UL56_V476A/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,2.2,2.2,Low
+UL54_I966V/UL56_V471A/UL56_V476A/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,5.4,5.4,Medium
+UL54_I966V/UL56_V471A/UL56_V476A/UL97_C592G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,2.3,2.3,Low
+UL54_K415R,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.111111111,1.111111111,Susceptible
+UL54_K415R,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.048780488,1.048780488,Susceptible
+UL54_K415R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.627272727,1.627272727,Susceptible
+UL54_K426E,Cidofovir,chou_s_foscarnet_2017,2,0.96494369,0.660511636,1.409689511,0,0,0.443276005,0.029832276,-1.196205464,chou_s_foscarnet_2017,1,2,0.9701425,NA,0.96494369,Susceptible
+UL54_K426E,Foscarnet,chou_s_foscarnet_2017,2,0.965391414,0.241451891,3.859901774,0.01438343,59.44876854,0.801147795,0.109069814,-0.322927567,chou_s_foscarnet_2017,1,2,0.979179416,NA,0.965391414,Susceptible
+UL54_K426E,Ganciclovir,chou_s_foscarnet_2017,2,1.014107242,0.792748786,1.2972754,0,0,0.60155887,0.01938089,0.722807934,chou_s_foscarnet_2017,1,2,1.020620726,NA,1.014107242,Susceptible
+UL54_K493N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,2.083333333,2.083333333,Low
+UL54_K493N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,3.351351351,3.351351351,Low
+UL54_K493N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,4.139344262,4.139344262,Low
+UL54_K500N,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.5,0.5,Susceptible
+UL54_K500N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,4.171330723,NA,4.171330723,Low
+UL54_K500N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,3.046309242,NA,3.046309242,Low
+UL54_K500N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,1.2,NA,1.2,Susceptible
+UL54_K500N/UL54_S585A,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.7,0.7,Susceptible
+UL54_K500N/UL54_S585A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011",3,3,3.715784427,NA,3.715784427,Low
+UL54_K500N/UL54_S585A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011",3,3,2.361080256,NA,2.361080256,Low
+UL54_K500N/UL54_S585A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011",3,3,2.190973742,NA,2.190973742,Low
+UL54_K500N/UL54_S585A/UL54_L802V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,3.363636364,3.363636364,Low
+UL54_K500N/UL54_S585A/UL54_L802V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,7.204783259,7.204783259,Medium
+UL54_K500N/UL54_S585A/UL54_L802V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,3.07038835,3.07038835,Low
+UL54_K500N/UL54_S585A/UL54_N757K/UL54_L802V/UL54_L926V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,2.719008264,2.719008264,Low
+UL54_K500N/UL54_S585A/UL54_N757K/UL54_L802V/UL54_L926V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,19.46686597,19.46686597,High
+UL54_K500N/UL54_S585A/UL54_N757K/UL54_L802V/UL54_L926V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,4.016990291,4.016990291,Low
+UL54_K513E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,9.1,9.1,Medium
+UL54_K513E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,1.4,1.4,Susceptible
+UL54_K513E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,5,5,Medium
+UL54_K513E/UL54_D558E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,11.1,11.1,Medium
+UL54_K513E/UL54_D558E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,2.7,2.7,Low
+UL54_K513E/UL54_D558E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,6.6,6.6,Medium
+UL54_K513E/UL54_D588E/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_N898D/UL54_A1122T/UL54_P1154A/UL54_884a/UL97_L595S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,13.6,13.6,Medium
+UL54_K513E/UL54_D588E/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_N898D/UL54_A1122T/UL54_P1154A/UL54_884a/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,4.7,4.7,Low
+UL54_K513E/UL54_D588E/UL54_P628L/UL54_S655L/UL54_N685S/UL54_A885T/UL54_N898D/UL54_A1122T/UL54_P1154A/UL54_884a/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,11.4,11.4,Medium
+UL54_K513E/UL54_D588N/UL54_P628L/UL54_INS884_S/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,11.5,11.5,Medium
+UL54_K513E/UL54_D588N/UL54_P628L/UL54_INS884_S/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,20.6,20.6,High
+UL54_K513E/UL54_D588N/UL54_P628L/UL54_INS884_S/UL97_M460I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,9.8,9.8,Medium
+UL54_K513E/UL54_D588N/UL54_P628L/UL54_INS884_S/UL97_M460I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,20.6,20.6,High
+UL54_K513E/UL97_M460I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_clinical_1998,1,1,NA,8.9,8.9,Medium
+UL54_K513E/UL97_M460I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_clinical_1998,1,1,NA,1.8,1.8,Susceptible
+UL54_K513E/UL97_M460I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_clinical_1998,1,1,NA,13.9,13.9,Medium
+UL54_K513E/UL97_M460I/UL97_L595S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drew_wl_maribavir_2006,1,1,NA,6.7,6.7,Medium
+UL54_K513E/UL97_M460I/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drew_wl_maribavir_2006,1,1,NA,3.8,3.8,Low
+UL54_K513E/UL97_M460I/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drew_wl_maribavir_2006,1,1,NA,15.2,15.2,High
+UL54_K513E/UL97_M460I/UL97_L595S,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drew_wl_maribavir_2006,1,1,NA,0.2,0.2,Susceptible
+UL54_K513N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_point_1998,1,1,NA,1.1,1.1,Susceptible
+UL54_K513N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_point_1998,1,2,15.8113883,NA,15.8113883,High
+UL54_K513N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_point_1998,1,2,7.937253933,NA,7.937253933,Medium
+UL54_K513N/UL54_V812L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_point_1998,1,1,NA,34,34,High
+UL54_K513N/UL54_V812L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_point_1998,1,1,NA,3,3,Low
+UL54_K513N/UL54_V812L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_point_1998,1,1,NA,9.8,9.8,Medium
+UL54_K513Q,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,18.25,18.25,High
+UL54_K513Q,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.027027027,1.027027027,Susceptible
+UL54_K513Q,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,6.590163934,6.590163934,Medium
+UL54_K513R,Cidofovir,"chou_s_improved_2014, chou_s_opposite_2021",2,11.58909411,1.336079692,100.5232719,0.048081941,83.16538466,0.044107264,0.170021247,14.41034306,"chou_s_improved_2014, chou_s_opposite_2021",2,2,11.58391397,NA,11.58909411,Medium
+UL54_K513R,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,1.133333333,1.133333333,Susceptible
+UL54_K513R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,3.769911504,3.769911504,Low
+UL54_K513R/UL54_A885T/UL54_N898D/UL54_A1122T/UL97_A594V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,4.5,4.5,Low
+UL54_K513R/UL54_A885T/UL54_N898D/UL54_A1122T/UL97_A594V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.6,1.6,Susceptible
+UL54_K513R/UL54_A885T/UL54_N898D/UL54_A1122T/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,4.4,4.4,Low
+UL54_K513T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,19.625,19.625,High
+UL54_K513T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,0.972972973,0.972972973,Susceptible
+UL54_K513T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,4.901639344,4.901639344,Low
+UL54_K805Q,Foscarnet,"tchesnokov_ep_role_2006, zarrouk_k_hypersusceptibility_2020, martin_m_opposite_2010",4,0.243488595,0.145525425,0.407397513,0.028451002,25.73411534,0.003159656,0.161736992,-8.734459293,"tchesnokov_ep_role_2006, zarrouk_k_hypersusceptibility_2020, martin_m_opposite_2010, cihlar_t_characterization_1998",4,5,0.22814462,NA,0.243488595,Susceptible
+UL54_K805Q,Ganciclovir,"zarrouk_k_hypersusceptibility_2020, martin_m_opposite_2010",3,1.056789713,0.545509049,2.047270341,0.018784923,33.0838261,0.753695882,0.153689286,0.359398768,"zarrouk_k_hypersusceptibility_2020, martin_m_opposite_2010, cihlar_t_characterization_1998",3,4,1.093316777,NA,1.056789713,Susceptible
+UL54_K805Q,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,2.2,2.2,Low
+UL54_K805Q/UL54_T821I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,2.1,2.1,Low
+UL54_K805Q/UL54_T821I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"martin_m_opposite_2010, cihlar_t_characterization_1998",2,2,12.53845821,NA,12.53845821,Medium
+UL54_K805Q/UL54_T821I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"martin_m_opposite_2010, cihlar_t_characterization_1998",2,2,4.724303929,NA,4.724303929,Low
+UL54_K947E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.047619048,1.047619048,Susceptible
+UL54_K947E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.051282051,1.051282051,Susceptible
+UL54_K947E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.971698113,0.971698113,Susceptible
+UL54_L424V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.285714286,1.285714286,Susceptible
+UL54_L424V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.179487179,1.179487179,Susceptible
+UL54_L424V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.301886792,1.301886792,Susceptible
+UL54_L501F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.297297297,1.297297297,Susceptible
+UL54_L501F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"harada_k_genetic_1997, chou_drug_2024",2,2,7.415093159,NA,7.415093159,Medium
+UL54_L501F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"harada_k_genetic_1997, chou_drug_2024",2,2,6.157651068,NA,6.157651068,Medium
+UL54_L501I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"lurain_ns_point_1992, cihlar_t_characterization_1998",2,3,15.65947056,NA,15.65947056,High
+UL54_L501I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"lurain_ns_point_1992, cihlar_t_characterization_1998",2,3,8.995882891,NA,8.995882891,Medium
+UL54_L501I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"lurain_ns_point_1992, cihlar_t_characterization_1998",2,3,1.188784391,NA,1.188784391,Susceptible
+UL54_L501I/UL54_S655L/UL54_N685S/UL54_Y751H/UL54_G874R/UL54_A885T/UL54_L890F/UL54_N898D/UL97_M460V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,9.4,9.4,Medium
+UL54_L501I/UL54_S655L/UL54_N685S/UL54_Y751H/UL54_G874R/UL54_A885T/UL54_L890F/UL54_N898D/UL97_M460V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,2.1,2.1,Low
+UL54_L501I/UL54_S655L/UL54_N685S/UL54_Y751H/UL54_G874R/UL54_A885T/UL54_L890F/UL54_N898D/UL97_M460V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,11.4,11.4,Medium
+UL54_L516M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_generation_2013,1,1,NA,1.112970711,1.112970711,Susceptible
+UL54_L516M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_generation_2013,1,1,NA,1.193598996,1.193598996,Susceptible
+UL54_L516M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_generation_2013,1,1,NA,1.28,1.28,Susceptible
+UL54_L516M/UL54_I521T/UL54_L802M/UL97_A591V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,eckle_t_drug-resistant_2000,1,1,NA,20.7,20.7,High
+UL54_L516P,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_opposite_2021,1,1,NA,5.346153846,5.346153846,Medium
+UL54_L516R,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,5.1,5.1,Medium
+UL54_L516R,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,0.8,0.8,Susceptible
+UL54_L516R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,2.1,2.1,Low
+UL54_L516W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,1.222222222,1.222222222,Susceptible
+UL54_L516W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2016, fischer_generation_2015",2,2,4.201731245,NA,4.201731245,Low
+UL54_L516W,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2016, fischer_generation_2015",2,2,2.080762953,NA,2.080762953,Low
+UL54_L545F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,10.70833333,10.70833333,Medium
+UL54_L545F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.189189189,1.189189189,Susceptible
+UL54_L545F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,3.967213115,3.967213115,Low
+UL54_L545S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.4,0.4,Susceptible
+UL54_L545S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011, germi_r_success_2014, cihlar_t_characterization_1998",5,5,9.401208431,NA,9.401208431,Medium
+UL54_L545S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011, germi_r_success_2014, cihlar_t_characterization_1998",5,5,3.876309761,NA,3.876309761,Low
+UL54_L545S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011, cihlar_t_characterization_1998",4,4,1.245301135,NA,1.245301135,Susceptible
+UL54_L545S/UL54_D588N/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,germi_r_success_2014,1,1,NA,3.1,3.1,Low
+UL54_L545S/UL54_D588N/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,germi_r_success_2014,1,1,NA,3.4,3.4,Low
+UL54_L545S/UL54_D588N/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,germi_r_success_2014,1,1,NA,3.7,3.7,Low
+UL54_L545S/UL54_P829S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.8,1.8,Susceptible
+UL54_L545S/UL54_P829S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,4.833218389,NA,4.833218389,Low
+UL54_L545S/UL54_P829S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,4.295346319,NA,4.295346319,Low
+UL54_L545S/UL54_P829S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,1.8,NA,1.8,Susceptible
+UL54_L545S/UL54_P829S/UL97_M460I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,2,126.9603562,NA,126.9603562,High
+UL54_L545S/UL54_P829S/UL97_M460I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,2,14.05655637,NA,14.05655637,Medium
+UL54_L545S/UL54_P829S/UL97_M460I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,2,1.702236285,NA,1.702236285,Susceptible
+UL54_L545S/UL54_V812L/UL54_P829S/UL54_D879G/UL97_M460I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,2,218.5707657,NA,218.5707657,High
+UL54_L545S/UL54_V812L/UL54_P829S/UL54_D879G/UL97_M460I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,2,28.21405781,NA,28.21405781,High
+UL54_L545S/UL54_V812L/UL54_P829S/UL54_D879G/UL97_M460I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,2,3.661308764,NA,3.661308764,Low
+UL54_L545S/UL54_V812L/UL54_P829S/UL54_D879G/UL97_M460I/UL97_L595S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,65.20661157,65.20661157,High
+UL54_L545S/UL54_V812L/UL54_P829S/UL54_D879G/UL97_M460I/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,5.341305431,5.341305431,Medium
+UL54_L545S/UL54_V812L/UL54_P829S/UL54_D879G/UL97_M460I/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,425.3640777,425.3640777,High
+UL54_L545S/UL97_M460I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,2,19.69672981,NA,19.69672981,High
+UL54_L545S/UL97_M460I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,2,10.23484568,NA,10.23484568,Medium
+UL54_L545S/UL97_M460I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,2,1.38302399,NA,1.38302399,Susceptible
+UL54_L545W,Cidofovir,"chou_s_phenotypic_2011, chou_s_opposite_2021",2,6.318792717,5.906943895,6.759356804,0,0,0.001831768,0.005304462,347.5429427,"chou_s_phenotypic_2011, chou_s_opposite_2021",2,2,6.311873224,NA,6.318792717,Medium
+UL54_L545W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,1.325,1.325,Susceptible
+UL54_L545W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,4.906779661,4.906779661,Low
+UL54_L565V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,1.625,1.625,Susceptible
+UL54_L565V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,3.72972973,3.72972973,Low
+UL54_L565V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,1.819672131,1.819672131,Susceptible
+UL54_L586I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,1.035714286,1.035714286,Susceptible
+UL54_L586I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,0.545454545,0.545454545,Susceptible
+UL54_L737M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,scott_gm_multidrug_2007,1,1,NA,2,2,Low
+UL54_L737M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,scott_gm_multidrug_2007,1,1,NA,0.479299363,0.479299363,Susceptible
+UL54_L737M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,scott_gm_multidrug_2007,1,1,NA,1.102040816,1.102040816,Susceptible
+UL54_L773V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,2.363636364,2.363636364,Low
+UL54_L773V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_improved_2014, mousavi-jazi_m_point_2003",2,2,4.737556801,NA,4.737556801,Low
+UL54_L773V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_improved_2014, mousavi-jazi_m_point_2003",2,2,2.478223743,NA,2.478223743,Low
+UL54_L773V/UL97_C607Y,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,2.681818182,2.681818182,Low
+UL54_L773V/UL97_C607Y,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,5.111111111,5.111111111,Medium
+UL54_L773V/UL97_C607Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_improved_2014,1,1,NA,9.247787611,9.247787611,Medium
+UL54_L776M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,shapira_my_artesunate_2008,1,1,NA,3.5,3.5,Low
+UL54_L776M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,shapira_my_artesunate_2008,1,1,NA,2.5,2.5,Low
+UL54_L802M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.7,0.7,Susceptible
+UL54_L802M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, tchesnokov_ep_role_2006, gilbert_c_recombinant_2011, cihlar_t_characterization_1998, chou_s_evolution_1997",5,5,4.129431673,NA,4.129431673,Low
+UL54_L802M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011, cihlar_t_characterization_1998, chou_s_evolution_1997",4,4,1.92544996,NA,1.92544996,Susceptible
+UL54_L802M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011, cihlar_t_characterization_1998, chou_s_evolution_1997",4,4,1.268845516,NA,1.268845516,Susceptible
+UL54_L802V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.1,1.1,Susceptible
+UL54_L802V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,0.9,0.9,Susceptible
+UL54_L802V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.8,1.8,Susceptible
+UL54_L862F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,0.9,0.9,Susceptible
+UL54_L862F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.1,1.1,Susceptible
+UL54_L862F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.7,1.7,Susceptible
+UL54_L926V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.1,1.1,Susceptible
+UL54_L926V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,0.9,0.9,Susceptible
+UL54_L926V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.3,1.3,Susceptible
+UL54_L957F,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.4,1.4,Susceptible
+UL54_L957F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,2.38117618,NA,2.38117618,Low
+UL54_L957F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,1.542724862,NA,1.542724862,Susceptible
+UL54_L957F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,1.529705854,NA,1.529705854,Susceptible
+UL54_M827I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lanier_er_analysis_2016,1,1,NA,0.652173913,0.652173913,Susceptible
+UL54_M827I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lanier_er_analysis_2016,1,1,NA,1.039215686,1.039215686,Susceptible
+UL54_M827I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lanier_er_analysis_2016,1,1,NA,0.984496124,0.984496124,Susceptible
+UL54_M844T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cyclopropavir_2012,1,1,NA,1.333333333,1.333333333,Susceptible
+UL54_M844T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cyclopropavir_2012,1,1,NA,2.461538462,2.461538462,Low
+UL54_M844T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cyclopropavir_2012,1,1,NA,1.432432432,1.432432432,Susceptible
+UL54_M844T/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cyclopropavir_2012,1,1,NA,1.19047619,1.19047619,Susceptible
+UL54_M844T/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cyclopropavir_2012,1,1,NA,2.025641026,2.025641026,Low
+UL54_M844T/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cyclopropavir_2012,1,1,NA,2.477477477,2.477477477,Low
+UL54_M844V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_cyclopropavir_2012, chou_s_cytomegalovirus_2014",2,2,2.151657415,NA,2.151657415,Low
+UL54_M844V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_cyclopropavir_2012, chou_s_cytomegalovirus_2014",2,2,2.075498087,NA,2.075498087,Low
+UL54_M844V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_cyclopropavir_2012, chou_s_cytomegalovirus_2014",2,2,1.788854382,NA,1.788854382,Susceptible
+UL54_M959T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.952380952,0.952380952,Susceptible
+UL54_M959T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.205128205,1.205128205,Susceptible
+UL54_M959T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.198113208,1.198113208,Susceptible
+UL54_N116H/UL54_S655L/UL54_N685S/UL54_A885T/UL54_N898D/UL54_A1122T/UL97_N68D/UL97_L89Q/UL97_I244V/UL97_L595S/UL97_V665I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,0.571428571,0.571428571,Susceptible
+UL54_N116H/UL54_S655L/UL54_N685S/UL54_A885T/UL54_N898D/UL54_A1122T/UL97_N68D/UL97_L89Q/UL97_I244V/UL97_L595S/UL97_V665I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,3.272727273,3.272727273,Low
+UL54_N345S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.67,0.67,Susceptible
+UL54_N345S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.883928571,0.883928571,Susceptible
+UL54_N345S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.2125,1.2125,Susceptible
+UL54_N408D,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.4,1.4,Susceptible
+UL54_N408D,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_opposite_2021, gilbert_c_recombinant_2011, cihlar_t_characterization_1998",4,4,3.897185136,NA,3.897185136,Low
+UL54_N408D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011, cihlar_t_characterization_1998",3,3,3.452696904,NA,3.452696904,Low
+UL54_N408D,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011, cihlar_t_characterization_1998",3,3,1.229588511,NA,1.229588511,Susceptible
+UL54_N408D/UL54_L957F,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.9,0.9,Susceptible
+UL54_N408D/UL54_L957F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,3.398529094,NA,3.398529094,Low
+UL54_N408D/UL54_L957F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,3.357082066,NA,3.357082066,Low
+UL54_N408D/UL54_L957F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,3.217141588,NA,3.217141588,Low
+UL54_N408D/UL54_S897P/UL97_C603W,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,4.5,4.5,Low
+UL54_N408D/UL54_S897P/UL97_C603W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,3.3,3.3,Low
+UL54_N408D/UL54_S897P/UL97_C603W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,11.4,11.4,Medium
+UL54_N408D/UL54_T552N,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.9,1.9,Susceptible
+UL54_N408D/UL54_T552N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011",3,3,4.05193043,NA,4.05193043,Low
+UL54_N408D/UL54_T552N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011",3,3,3.778539529,NA,3.778539529,Low
+UL54_N408D/UL54_T552N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011",3,3,2.480531988,NA,2.480531988,Low
+UL54_N408D/UL54_T552N/UL54_L957F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,11.23966942,11.23966942,Medium
+UL54_N408D/UL54_T552N/UL54_L957F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,18.41554559,18.41554559,High
+UL54_N408D/UL54_T552N/UL54_L957F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,12.40291262,12.40291262,Medium
+UL54_N408H,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,3.291666667,3.291666667,Low
+UL54_N408H,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.108108108,1.108108108,Susceptible
+UL54_N408H,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.950819672,1.950819672,Susceptible
+UL54_N408K,Foscarnet,"scott_gm_multidrug_2007, chou_s_phenotypic_2011, chou_s_novel_2016",4,0.838047304,0.621647435,1.129777499,2.41430468804499e-06,0.014418127,0.15632303,0.093859067,-1.88240451,"scott_gm_multidrug_2007, chou_s_phenotypic_2011, chou_s_novel_2016, drew_wl_maribavir_2006, chou_s_cytomegalovirus_2014",5,6,0.907330926,NA,0.838047304,Susceptible
+UL54_N408K,Ganciclovir,"scott_gm_multidrug_2007, chou_s_phenotypic_2011, chou_s_novel_2016",4,3.841153539,3.097414902,4.763475665,0.004979111,27.75526241,0.000277265,0.067622464,19.90126711,"scott_gm_multidrug_2007, chou_s_phenotypic_2011, chou_s_novel_2016, drew_wl_maribavir_2006, chou_s_cytomegalovirus_2014",5,6,4.275959667,NA,3.841153539,Low
+UL54_N408K,Cidofovir,"scott_gm_multidrug_2007, chou_s_phenotypic_2011, chou_s_novel_2016, chou_s_opposite_2021",5,17.13472366,7.662168174,38.31797323,0.377977977,97.47476789,0.000607392,0.289871401,9.801267102,"scott_gm_multidrug_2007, chou_s_phenotypic_2011, chou_s_novel_2016, chou_s_opposite_2021, drew_wl_maribavir_2006, chou_s_cytomegalovirus_2014",6,7,17.87693916,NA,17.13472366,High
+UL54_N408K,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drew_wl_maribavir_2006,1,1,NA,0.5,0.5,Susceptible
+UL54_N408K/UL54_A834P,Foscarnet,scott_gm_multidrug_2007,2,7.656944087,2.327092127,25.19401449,0,0,0.029293535,0.09373322,21.71709194,scott_gm_multidrug_2007,1,2,8.295812969,NA,7.656944087,Medium
+UL54_N408K/UL54_A834P,Ganciclovir,scott_gm_multidrug_2007,2,11.86394937,0.005965266,23595.47619,0.684412861,95.76996013,0.150955456,0.597763542,4.137931077,scott_gm_multidrug_2007,1,2,11.86515718,NA,11.86394937,Medium
+UL54_N408K/UL54_A834P,Cidofovir,scott_gm_multidrug_2007,2,13.40768519,0.843240333,213.1848005,0.021560855,20.36794003,0.053269339,0.217714998,11.9230558,scott_gm_multidrug_2007,1,2,12.44692436,NA,13.40768519,Medium
+UL54_N408K/UL54_G841A/UL54_A987G/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,germi_r_success_2014,1,1,NA,4.4,4.4,Low
+UL54_N408K/UL54_G841A/UL54_A987G/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,germi_r_success_2014,1,1,NA,3.6,3.6,Low
+UL54_N408K/UL54_G841A/UL54_A987G/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,germi_r_success_2014,1,1,NA,5.45,5.45,Medium
+UL54_N408K/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_drug-resistant_2010,1,1,NA,10,10,Medium
+UL54_N408K/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_drug-resistant_2010,1,1,NA,1,1,Susceptible
+UL54_N408K/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_drug-resistant_2010,1,1,NA,10,10,Medium
+UL54_N408S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_novel_2013,1,1,NA,5.25,5.25,Medium
+UL54_N408S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_novel_2013,1,1,NA,1.032366071,1.032366071,Susceptible
+UL54_N408S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,hantz_s_novel_2013,1,1,NA,3.181818182,3.181818182,Low
+UL54_N410K,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,0.8,0.8,Susceptible
+UL54_N410K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,2.9,2.9,Low
+UL54_N410K,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_viral_2003, chou_s_opposite_2021",2,2,2.717464882,NA,2.717464882,Low
+UL54_N495K,Cidofovir,chou_s_foscarnet_2017,2,1.132772136,0.302436511,4.242783743,0.012101025,54.20206021,0.442404063,0.103929677,1.199540405,"chou_s_foscarnet_2017, ducancelle_a_novel_2006",2,3,1.094020381,NA,1.132772136,Susceptible
+UL54_N495K,Ganciclovir,chou_s_foscarnet_2017,2,1.355545722,0.645991586,2.844470803,0,0,0.120608765,0.058331574,5.215085072,"chou_s_foscarnet_2017, ducancelle_a_novel_2006",2,3,1.262080846,NA,1.355545722,Susceptible
+UL54_N495K,Foscarnet,"chou_s_foscarnet_2017, ducancelle_a_development_2007",3,3.643263761,0.741597992,17.89833708,0.399945408,97.81785661,0.07302825,0.369964297,3.494607262,"chou_s_foscarnet_2017, ducancelle_a_novel_2006, ducancelle_a_development_2007",3,4,3.588196189,NA,3.643263761,Low
+UL54_N495K/UL54_Q783R,Cidofovir,chou_s_foscarnet_2017,2,1.232961013,0.778192447,1.953492181,0,0,0.109023648,0.036218528,5.78208495,chou_s_foscarnet_2017,1,2,1.246170605,NA,1.232961013,Susceptible
+UL54_N495K/UL54_Q783R,Ganciclovir,chou_s_foscarnet_2017,2,1.971951436,0.321576119,12.09229244,0.034275148,84.12242159,0.13189573,0.142729058,4.757430891,chou_s_foscarnet_2017,1,2,1.970425273,NA,1.971951436,Susceptible
+UL54_N495K/UL54_Q783R,Foscarnet,chou_s_foscarnet_2017,2,3.807562177,0.811266444,17.87024452,0.023432952,77.96960544,0.057781997,0.121684477,10.98734341,chou_s_foscarnet_2017,1,2,3.864441037,NA,3.807562177,Low
+UL54_N757K,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,0.8,0.8,Susceptible
+UL54_N757K,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.3,1.3,Susceptible
+UL54_N757K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.3,1.3,Susceptible
+UL54_P448S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.144067797,1.144067797,Susceptible
+UL54_P488R,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,2,7.645913941,NA,7.645913941,Medium
+UL54_P488R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,2,5.123475383,NA,5.123475383,Medium
+UL54_P488R,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,2,0.774596669,NA,0.774596669,Susceptible
+UL54_P497S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,2.416666667,2.416666667,Low
+UL54_P497S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,0.783783784,0.783783784,Susceptible
+UL54_P497S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,1.885245902,1.885245902,Susceptible
+UL54_P522A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_contrasting_2008, chou_s_cytomegalovirus_2014",2,2,4.045199175,NA,4.045199175,Low
+UL54_P522A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_contrasting_2008, chou_s_cytomegalovirus_2014",2,2,3,NA,3,Low
+UL54_P522A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_contrasting_2008, chou_s_cytomegalovirus_2014",2,2,0.986013297,NA,0.986013297,Susceptible
+UL54_P522L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_contrasting_2008,1,1,NA,1.363636364,1.363636364,Susceptible
+UL54_P522L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_contrasting_2008,1,1,NA,1.194444444,1.194444444,Susceptible
+UL54_P522L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_contrasting_2008,1,1,NA,1.272727273,1.272727273,Susceptible
+UL54_P522S,Ganciclovir,"chou_s_phenotypic_2011, chou_s_recombinant_2010-1",2,2.398305085,2.398305085,2.398305085,0,0,0,0,Inf,"chou_s_phenotypic_2011, cihlar_t_characterization_1998, chou_s_recombinant_2010-1",3,3,2.612503315,NA,2.398305085,Low
+UL54_P522S,Cidofovir,"chou_s_phenotypic_2011, chou_s_opposite_2021",2,3.247374787,0.072587566,145.2789169,0.168690228,94.1988111,0.158330851,0.29913012,3.937573762,"chou_s_phenotypic_2011, chou_s_opposite_2021, cihlar_t_characterization_1998",3,3,3.343498882,NA,3.247374787,Low
+UL54_P522S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, cihlar_t_characterization_1998",2,2,1.160818677,NA,1.160818677,Susceptible
+UL54_P522S/UL54_P923L/UL56_V471A/UL56_V476A/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,5.6,5.6,Medium
+UL54_P522S/UL54_P923L/UL56_V471A/UL56_V476A/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.4,1.4,Susceptible
+UL54_P522S/UL54_P923L/UL56_V471A/UL56_V476A/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,5.6,5.6,Medium
+UL54_P522S/UL54_P923L/UL56_V471A/UL56_V476A/UL97_C592G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.1,1.1,Susceptible
+UL54_P522S/UL97_A594T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,foulongne_v_ganciclovir_2004,1,1,NA,3.6,3.6,Low
+UL54_P522S/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,foulongne_v_ganciclovir_2004,1,1,NA,8.4,8.4,Medium
+UL54_P552T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.958333333,1.958333333,Susceptible
+UL54_P552T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.378378378,1.378378378,Susceptible
+UL54_P552T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,2.098360656,2.098360656,Low
+UL54_P608L/UL54_S655L/UL54_N685S/UL54_A688V/UL54_A885T/UL54_N898D/UL54_INS1100_LTAPGV/UL97_D605E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,seo_sk_cytomegalovirus_2001,1,1,NA,7.8,7.8,Medium
+UL54_P608L/UL54_S655L/UL54_N685S/UL54_A688V/UL54_A885T/UL54_N898D/UL54_INS1100_LTAPGV/UL97_D605E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,seo_sk_cytomegalovirus_2001,1,1,NA,1.1,1.1,Susceptible
+UL54_P608L/UL54_S655L/UL54_N685S/UL54_A688V/UL54_A885T/UL54_N898D/UL54_INS1100_LTAPGV/UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,seo_sk_cytomegalovirus_2001,1,1,NA,6.1,6.1,Medium
+UL54_P628L/UL54_E756K/UL54_INS884_S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,12.4,12.4,Medium
+UL54_P628L/UL54_E756K/UL54_INS884_S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,9,9,Medium
+UL54_P628L/UL54_INS884_S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,2,3.346640106,NA,3.346640106,Low
+UL54_P628L/UL54_INS884_S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,2,2.632489316,NA,2.632489316,Low
+UL54_P628L/UL54_S655L/UL54_A885T/UL54_N898D/UL97_L595S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,0.6,0.6,Susceptible
+UL54_P628L/UL54_S655L/UL54_A885T/UL54_N898D/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.9,1.9,Susceptible
+UL54_P628L/UL54_S655L/UL54_A885T/UL54_N898D/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.7,1.7,Susceptible
+UL54_P628L/UL54_S655L/UL54_A885T/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,0.4,0.4,Susceptible
+UL54_P628L/UL54_S655L/UL54_A885T/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.1,1.1,Susceptible
+UL54_P628L/UL54_S655L/UL54_A885T/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.3,1.3,Susceptible
+UL54_P628L/UL54_S655L/UL54_A885T/UL97_L595F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,0.8,0.8,Susceptible
+UL54_P628L/UL54_S655L/UL54_A885T/UL97_L595F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,2.6,2.6,Low
+UL54_P628L/UL54_S655L/UL54_A885T/UL97_L595F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.3,1.3,Susceptible
+UL54_P628L/UL54_S655L/UL54_N685S/UL54_T700A/UL54_A884S/UL54_INS885_T/UL54_K1056R/UL54_E1089G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,0.714285714,0.714285714,Susceptible
+UL54_P628L/UL54_S655L/UL54_N685S/UL54_T700A/UL54_INS885_S/UL54_A886T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_f_single_1996,1,1,NA,1.5,1.5,Susceptible
+UL54_P628L/UL54_S655L/UL54_N685S/UL54_T700A/UL54_INS885_S/UL54_A886T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_f_single_1996,1,1,NA,4.7,4.7,Low
+UL54_P628L/UL54_S655L/UL54_N685S/UL54_T700A/UL54_INS885_S/UL54_A886T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_f_single_1996,1,1,NA,1,1,Susceptible
+UL54_P648S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.177966102,1.177966102,Susceptible
+UL54_P744T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cyclopropavir_2012,1,1,NA,1.05,1.05,Susceptible
+UL54_P744T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cyclopropavir_2012,1,1,NA,1.102564103,1.102564103,Susceptible
+UL54_P744T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cyclopropavir_2012,1,1,NA,0.888888889,0.888888889,Susceptible
+UL54_P829S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.5,0.5,Susceptible
+UL54_P829S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,2.720294102,NA,2.720294102,Low
+UL54_P829S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,1.385640646,NA,1.385640646,Susceptible
+UL54_P829S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,0.994987437,NA,0.994987437,Susceptible
+UL54_P859A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.952380952,0.952380952,Susceptible
+UL54_P859A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.794871795,0.794871795,Susceptible
+UL54_P859A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.839622642,0.839622642,Susceptible
+UL54_Q229K,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.952380952,0.952380952,Susceptible
+UL54_Q229K,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.205128205,1.205128205,Susceptible
+UL54_Q229K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.245283019,1.245283019,Susceptible
+UL54_Q578H,Cidofovir,"chou_s_phenotypic_2011, chou_s_opposite_2021",2,2.624366213,0.545963263,12.61494771,0.020303235,65.26423367,0.081089224,0.123565065,7.808351211,"chou_s_phenotypic_2011, chou_s_opposite_2021",2,2,2.580333246,NA,2.624366213,Low
+UL54_Q578H,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, mousavi-jazi_m_point_2003",2,2,6.708203932,NA,6.708203932,Medium
+UL54_Q578H,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, mousavi-jazi_m_point_2003",2,2,2.571024989,NA,2.571024989,Low
+UL54_Q578H/UL97_A594V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,kuramoto_t_novel_2010,1,1,NA,7.194244604,7.194244604,Medium
+UL54_Q578H/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,kuramoto_t_novel_2010,1,1,NA,3.783333333,3.783333333,Low
+UL54_Q578L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.9,0.9,Susceptible
+UL54_Q578L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_phenotypic_2014",2,2,3.079888681,NA,3.079888681,Low
+UL54_Q578L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_phenotypic_2014",2,2,2.207940217,NA,2.207940217,Low
+UL54_Q578L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_phenotypic_2014",2,2,1.263328936,NA,1.263328936,Susceptible
+UL54_Q579I,Foscarnet,"zarrouk_k_impact_2021, zarrouk_k_hypersusceptibility_2020",3,0.126713356,0.033788212,0.475203448,0.268609194,96.17882761,0.021407134,0.307209438,-6.724493215,"zarrouk_k_impact_2021, zarrouk_k_hypersusceptibility_2020",2,3,0.125869544,NA,0.126713356,Susceptible
+UL54_Q579I,Ganciclovir,"zarrouk_k_impact_2021, zarrouk_k_hypersusceptibility_2020",3,0.303068824,0.078496856,1.170119623,0.256739777,87.35601658,0.062731166,0.313969411,-3.802266449,"zarrouk_k_impact_2021, zarrouk_k_hypersusceptibility_2020",2,3,0.301830476,NA,0.303068824,Susceptible
+UL54_Q697P,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,3.714285714,3.714285714,Low
+UL54_Q697P,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,0.727272727,0.727272727,Susceptible
+UL54_Q783R,Cidofovir,chou_s_foscarnet_2017,2,0.926858032,0.677831577,1.267373548,0,0,0.199595479,0.024625887,-3.084350786,chou_s_foscarnet_2017,1,2,0.915697916,NA,0.926858032,Susceptible
+UL54_Q783R,Ganciclovir,chou_s_foscarnet_2017,2,1.572517345,0.240163519,10.29636312,0.030017008,68.52832143,0.201024081,0.1478894,3.060920791,chou_s_foscarnet_2017,1,2,1.58113883,NA,1.572517345,Susceptible
+UL54_Q783R,Foscarnet,chou_s_foscarnet_2017,2,1.699190793,1.235696813,2.336535401,0,0,0.030079677,0.02506784,21.14869665,chou_s_foscarnet_2017,1,2,1.693460675,NA,1.699190793,Susceptible
+UL54_Q795P,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.904761905,0.904761905,Susceptible
+UL54_Q795P,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.051282051,1.051282051,Susceptible
+UL54_Q795P,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.858490566,0.858490566,Susceptible
+UL54_Q795R,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.904761905,0.904761905,Susceptible
+UL54_Q795R,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.025641026,1.025641026,Susceptible
+UL54_Q795R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.047169811,1.047169811,Susceptible
+UL54_Q807A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"tchesnokov_ep_role_2006, tchesnokov_ep_engineering_2009",2,2,7.21051242,NA,7.21051242,Medium
+UL54_R512C,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1,1,Susceptible
+UL54_R512C,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,0.74,0.74,Susceptible
+UL54_R512C,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1,1,Susceptible
+UL54_R512H,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.389830508,1.389830508,Susceptible
+UL54_R784A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tchesnokov_ep_engineering_2009,1,1,NA,11,11,Medium
+UL54_S290R,Cidofovir,chou_s_foscarnet_2017,2,1.33658083,0.881247815,2.027180421,0,0,0.071631451,0.032781712,8.849895877,chou_s_foscarnet_2017,1,2,1.337249152,NA,1.33658083,Susceptible
+UL54_S290R,Ganciclovir,chou_s_foscarnet_2017,2,1.615492211,0.858392496,3.0403517,0,0,0.065817917,0.049765727,9.637951966,chou_s_foscarnet_2017,1,2,1.624854305,NA,1.615492211,Susceptible
+UL54_S290R,Foscarnet,chou_s_foscarnet_2017,2,2.233495032,1.81838291,2.743371613,0,0,0.012818836,0.016182648,49.65612695,chou_s_foscarnet_2017,1,2,2.215261777,NA,2.233495032,Low
+UL54_S291P,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,0.777777778,0.777777778,Susceptible
+UL54_S291P,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,0.536585366,0.536585366,Susceptible
+UL54_S291P,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.2,1.2,Susceptible
+UL54_S291P/UL54_K415R,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.111111111,1.111111111,Susceptible
+UL54_S291P/UL54_K415R,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,0.707317073,0.707317073,Susceptible
+UL54_S291P/UL54_K415R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,0.863636364,0.863636364,Susceptible
+UL54_S585A,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1,1,Susceptible
+UL54_S585A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,3.117691454,NA,3.117691454,Low
+UL54_S585A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,1.542724862,NA,1.542724862,Susceptible
+UL54_S585A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,1.341640786,NA,1.341640786,Susceptible
+UL54_S612N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1,1,Susceptible
+UL54_S612N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.743589744,0.743589744,Susceptible
+UL54_S612N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.91509434,0.91509434,Susceptible
+UL54_S649P,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.228813559,1.228813559,Susceptible
+UL54_S655/UL54_N685S/UL97_L595T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,0.8,0.8,Susceptible
+UL54_S655/UL54_N685S/UL97_L595T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.6,1.6,Susceptible
+UL54_S655/UL54_N685S/UL97_L595T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,2.1,2.1,Low
+UL54_S655L/UL54_G678S/UL54_G874R/UL97_C607Y,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_clinical_1998,1,1,NA,2.9,2.9,Low
+UL54_S655L/UL54_G678S/UL54_G874R/UL97_C607Y,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_clinical_1998,1,1,NA,1.4,1.4,Susceptible
+UL54_S655L/UL54_G678S/UL54_G874R/UL97_C607Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_clinical_1998,1,1,NA,12.5,12.5,Medium
+UL54_S655L/UL54_N685S/UL54_A885/UL54_N898D/UL97_L595S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.2,1.2,Susceptible
+UL54_S655L/UL54_N685S/UL54_A885/UL54_N898D/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.4,1.4,Susceptible
+UL54_S655L/UL54_N685S/UL54_A885/UL54_N898D/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,2.7,2.7,Low
+UL54_S655L/UL54_N685S/UL54_A885T/UL54_L890F/UL54_N898D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_f_ganciclovir_1998,1,3,0.925213002,NA,0.925213002,Susceptible
+UL54_S655L/UL54_N685S/UL54_G874R/UL54_A885T/UL54_N898D/UL97_M460V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.5,1.5,Susceptible
+UL54_S655L/UL54_N685S/UL54_G874R/UL54_A885T/UL54_N898D/UL97_M460V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,0.4,0.4,Susceptible
+UL54_S655L/UL54_N685S/UL54_G874R/UL54_A885T/UL54_N898D/UL97_M460V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.5,1.5,Susceptible
+UL54_S655L/UL54_N685S/UL54_I722V/UL54_A885T/UL54_N898D/UL97_C592G/UL97_A594V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,4.4,4.4,Low
+UL54_S655L/UL54_N685S/UL54_I722V/UL54_A885T/UL54_N898D/UL97_C592G/UL97_A594V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.2,1.2,Susceptible
+UL54_S655L/UL54_N685S/UL54_I722V/UL54_A885T/UL54_N898D/UL97_C592G/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,4.9,4.9,Low
+UL54_S655L/UL54_N685S/UL54_INS885_S/UL54_A886T/UL97_G598S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_f_emergence_1998,1,1,NA,0.6,0.6,Susceptible
+UL54_S655L/UL54_N685S/UL54_INS885_S/UL54_A886T/UL97_G598S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_f_emergence_1998,1,1,NA,6,6,Medium
+UL54_S655L/UL54_N685S/UL54_K805Q/UL54_T821I/UL54_A885T/UL54_N898D/UL97_M460V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,11.5,11.5,Medium
+UL54_S655L/UL54_N685S/UL54_K805Q/UL54_T821I/UL54_A885T/UL54_N898D/UL97_M460V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,7.4,7.4,Medium
+UL54_S655L/UL54_N685S/UL54_K805Q/UL54_T821I/UL54_A885T/UL54_N898D/UL97_M460V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,10.6,10.6,Medium
+UL54_S655L/UL54_N685S/UL54_L802M/UL54_A885T/UL54_N898D/UL54_T1121I/UL54_A1122T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,1.1,1.1,Susceptible
+UL54_S655L/UL54_N685S/UL54_L802M/UL54_A885T/UL54_N898D/UL54_T1121I/UL54_A1122T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,0.7,0.7,Susceptible
+UL54_S655L/UL54_N685S/UL54_L802M/UL54_A885T/UL54_N898D/UL54_T1121I/UL54_A1122T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,0.6,0.6,Susceptible
+UL54_S655L/UL54_P682L/UL54_N685S/UL54_A844S/UL54_INS885_T/UL97_T17K/UL97_N68D/UL97_L126Q/UL97_I244V/UL97_Q449K/UL97_M460V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,3,3,Low
+UL54_S655L/UL54_P682L/UL54_N685S/UL54_A844S/UL54_INS885_T/UL97_T17K/UL97_N68D/UL97_L126Q/UL97_I244V/UL97_Q449K/UL97_M460V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,12.36363636,12.36363636,Medium
+UL54_S655L/UL54_P682L/UL54_N685S/UL54_A884S/UL54_INS885_T/UL97_N68D/UL97_S108N/UL97_I244V/UL97_M460V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,1,1,Susceptible
+UL54_S655L/UL54_P682L/UL54_N685S/UL54_A884S/UL54_INS885_T/UL97_N68D/UL97_S108N/UL97_I244V/UL97_M460V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,1,NA,4.727272727,4.727272727,Low
+UL54_S660G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.857142857,0.857142857,Susceptible
+UL54_S660G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.102564103,1.102564103,Susceptible
+UL54_S660G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.990566038,0.990566038,Susceptible
+UL54_S660N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1,1,Susceptible
+UL54_S660N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.820512821,0.820512821,Susceptible
+UL54_S660N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.188679245,1.188679245,Susceptible
+UL54_S676G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,1.2,1.2,Susceptible
+UL54_S676G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"mousavi-jazi_m_variations_2001, cihlar_t_characterization_1998",2,2,2.123676058,NA,2.123676058,Low
+UL54_S676G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"mousavi-jazi_m_variations_2001, cihlar_t_characterization_1998",2,2,1.723368794,NA,1.723368794,Susceptible
+UL54_S676G/UL54_S897L/UL54_N898D/UL97_A594V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,6.2,6.2,Medium
+UL54_S676G/UL54_S897L/UL54_N898D/UL97_A594V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,2.3,2.3,Low
+UL54_S676G/UL54_S897L/UL54_N898D/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,9.9,9.9,Medium
+UL54_S695T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,0.5,0.5,Susceptible
+UL54_S695T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.219512195,1.219512195,Susceptible
+UL54_S695T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.109090909,1.109090909,Susceptible
+UL54_S695T/UL54_A972V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1,1,Susceptible
+UL54_S695T/UL54_A972V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,1.048780488,1.048780488,Susceptible
+UL54_S695T/UL54_A972V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chevillotte_m_differentiation_2010,1,1,NA,0.845454545,0.845454545,Susceptible
+UL54_S897P,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,0.906779661,0.906779661,Susceptible
+UL54_T271A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.714285714,0.714285714,Susceptible
+UL54_T271A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.948717949,0.948717949,Susceptible
+UL54_T271A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.981132075,0.981132075,Susceptible
+UL54_T419M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_point_2003,1,1,NA,8,8,Medium
+UL54_T419M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_point_2003,1,1,NA,1,1,Susceptible
+UL54_T437M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1,1,Susceptible
+UL54_T437M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.794871795,0.794871795,Susceptible
+UL54_T437M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.990566038,0.990566038,Susceptible
+UL54_T503A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,3.666666667,3.666666667,Low
+UL54_T503A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,1.486486486,1.486486486,Susceptible
+UL54_T503A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,3.106557377,3.106557377,Low
+UL54_T503I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,6.1,6.1,Medium
+UL54_T503I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,0.5,0.5,Susceptible
+UL54_T503I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_viral_2003,1,1,NA,2.9,2.9,Low
+UL54_T503I/UL97_M460V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.9,1.9,Susceptible
+UL54_T503I/UL97_M460V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.1,1.1,Susceptible
+UL54_T503I/UL97_M460V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,5.5,5.5,Medium
+UL54_T522N,Cidofovir,chou_s_foscarnet_2017,2,1.325972892,0.050009326,35.15752475,0.123775926,92.95207374,0.471510598,0.257959972,1.093760577,chou_s_foscarnet_2017,1,2,1.317914411,NA,1.325972892,Susceptible
+UL54_T522N,Ganciclovir,chou_s_foscarnet_2017,2,2.190719537,0.130767459,36.7006602,0.088945487,90.36532857,0.17548875,0.221825853,3.535341064,chou_s_foscarnet_2017,1,2,2.184657244,NA,2.190719537,Low
+UL54_T522N,Foscarnet,chou_s_foscarnet_2017,2,2.813364415,0.656877663,12.04945726,0.020840182,79.49821283,0.070173777,0.114482537,9.035273827,chou_s_foscarnet_2017,1,2,2.816284174,NA,2.813364415,Low
+UL54_T552N,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.7,1.7,Susceptible
+UL54_T552N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011",3,3,4.175816147,NA,4.175816147,Low
+UL54_T552N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011",3,3,2.270023835,NA,2.270023835,Low
+UL54_T552N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_new_2005, gilbert_c_recombinant_2011",3,3,1.526117452,NA,1.526117452,Susceptible
+UL54_T552N/UL54_L957F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,0.9,0.9,Susceptible
+UL54_T552N/UL54_L957F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,5.5,5.5,Medium
+UL54_T552N/UL54_L957F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.6,1.6,Susceptible
+UL54_T584A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,0.678571429,0.678571429,Susceptible
+UL54_T584A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,1,1,Susceptible
+UL54_T700A,Ganciclovir,"biron_kk_potent_2002, park_analysis_2022",2,1.396172815,0.004018685,485.0587579,0.405135033,95.36744329,0.600724197,0.46044711,0.724805917,"chou_s_cytomegalovirus_2014, biron_kk_potent_2002, cihlar_t_characterization_1998, park_analysis_2022",4,4,1.24906593,NA,1.396172815,Susceptible
+UL54_T700A,Cidofovir,"chou_s_opposite_2021, park_analysis_2022",2,1.728592809,1.12611598,2.6533973,0,0,0.039180353,0.03372629,16.22792402,"chou_s_opposite_2021, chou_s_cytomegalovirus_2014, cihlar_t_characterization_1998, park_analysis_2022",4,4,1.12026338,NA,1.728592809,Susceptible
+UL54_T700A,Foscarnet,"ducancelle_a_development_2007, park_analysis_2022",2,9.02574915,0.954340442,85.36172643,0.060594545,96.79664497,0.051057614,0.17682828,12.44190983,"ducancelle_a_development_2007, chou_s_cytomegalovirus_2014, cihlar_t_characterization_1998, park_analysis_2022",4,4,7.317431145,NA,9.02574915,Medium
+UL54_T813S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,2.727272727,2.727272727,Low
+UL54_T813S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,4.853658537,4.853658537,Low
+UL54_T813S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,2.454545455,2.454545455,Low
+UL54_T813S/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,1.681818182,1.681818182,Susceptible
+UL54_T813S/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,4.975609756,4.975609756,Low
+UL54_T813S/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_growth_2007,1,1,NA,6,6,Medium
+UL54_T821I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.1,1.1,Susceptible
+UL54_T821I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, martin_m_opposite_2010, cihlar_t_characterization_1998",3,3,11.25070533,NA,11.25070533,Medium
+UL54_T821I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, martin_m_opposite_2010, cihlar_t_characterization_1998",3,3,4.132748129,NA,4.132748129,Low
+UL54_T821I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, cihlar_t_characterization_1998",2,2,1.688194302,NA,1.688194302,Susceptible
+UL54_T838A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,0.8,0.8,Susceptible
+UL54_T838A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,2.4,2.4,Low
+UL54_T838A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,1.8,1.8,Susceptible
+UL54_V11L/UL54_Q578H/UL54_S655L/UL54_G874R/UL97_A140V/UL97_A594V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,oshima_k_case_2008,1,1,NA,1.846153846,1.846153846,Susceptible
+UL54_V11L/UL54_Q578H/UL54_S655L/UL54_G874R/UL97_A140V/UL97_A594V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,oshima_k_case_2008,1,1,NA,7.218181818,7.218181818,Medium
+UL54_V11L/UL54_Q578H/UL54_S655L/UL54_G874R/UL97_A140V/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,oshima_k_case_2008,1,1,NA,4.540816327,4.540816327,Low
+UL54_V284E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.047619048,1.047619048,Susceptible
+UL54_V284E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.205128205,1.205128205,Susceptible
+UL54_V284E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.20754717,1.20754717,Susceptible
+UL54_V355A/UL54_A688V/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,daikoku_t_rapid_2013,1,1,NA,5.4,5.4,Medium
+UL54_V355A/UL54_A688V/UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,daikoku_t_rapid_2013,1,1,NA,16.1,16.1,High
+UL54_V377A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.203389831,1.203389831,Susceptible
+UL54_V476G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.8,0.8,Susceptible
+UL54_V476G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.446428571,0.446428571,Susceptible
+UL54_V476G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,0.9375,0.9375,Susceptible
+UL54_V526L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,2.552631579,2.552631579,Low
+UL54_V526L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,1.815153648,1.815153648,Susceptible
+UL54_V526L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,5.479217604,5.479217604,Medium
+UL54_V526L/UL54_E756K,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,3.263157895,3.263157895,Low
+UL54_V526L/UL54_E756K,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,5.062162796,5.062162796,Medium
+UL54_V526L/UL54_E756K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,24.44987775,24.44987775,High
+UL54_V526L/UL54_E756K/UL97_A594V/UL97_L595F/UL97_E655K,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,2.657894737,2.657894737,Low
+UL54_V526L/UL54_E756K/UL97_A594V/UL97_L595F/UL97_E655K,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,5.337321135,5.337321135,Medium
+UL54_V526L/UL54_E756K/UL97_A594V/UL97_L595F/UL97_E655K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,24.44987775,24.44987775,High
+UL54_V526L/UL54_E756K/UL97_E655K,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,4.236842105,4.236842105,Low
+UL54_V526L/UL54_E756K/UL97_E655K,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,6.256157635,6.256157635,Medium
+UL54_V526L/UL54_E756K/UL97_E655K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,24.44987775,24.44987775,High
+UL54_V526L/UL54_E756K/UL97_L595F/UL97_E655K,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,4.421052632,4.421052632,Low
+UL54_V526L/UL54_E756K/UL97_L595F/UL97_E655K,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,4.747830167,4.747830167,Low
+UL54_V526L/UL54_E756K/UL97_L595F/UL97_E655K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,24.44987775,24.44987775,High
+UL54_V526L/UL97_A594V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,2.684210526,2.684210526,Low
+UL54_V526L/UL97_A594V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,1.654234107,1.654234107,Susceptible
+UL54_V526L/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,13.31051345,13.31051345,Medium
+UL54_V526L/UL97_L595F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,3.552631579,3.552631579,Low
+UL54_V526L/UL97_L595F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,1.906403941,1.906403941,Susceptible
+UL54_V526L/UL97_L595F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,19.06356968,19.06356968,High
+UL54_V526M/UL54_A647V/UL54_N685S/UL54_A688V/UL54_A885T/UL54_N898D/UL54_Y1047S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,0.4,0.4,Susceptible
+UL54_V526M/UL54_A647V/UL54_N685S/UL54_A688V/UL54_A885T/UL54_N898D/UL54_Y1047S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,0.8,0.8,Susceptible
+UL54_V526M/UL54_A647V/UL54_N685S/UL54_A688V/UL54_A885T/UL54_N898D/UL54_Y1047S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,0.5,0.5,Susceptible
+UL54_V526M/UL54_A647V/UL54_N685S/UL54_A688V/UL54_V812L/UL54_A885T/UL54_N898D,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,0.7,0.7,Susceptible
+UL54_V526M/UL54_A647V/UL54_N685S/UL54_A688V/UL54_V812L/UL54_A885T/UL54_N898D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,0.7,0.7,Susceptible
+UL54_V526M/UL54_A647V/UL54_N685S/UL54_A688V/UL54_V812L/UL54_A885T/UL54_N898D/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,2.5,2.5,Low
+UL54_V526M/UL54_A647V/UL54_N685S/UL54_A688V/UL54_V812L/UL54_A885T/UL54_N898D/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,3,3,Low
+UL54_V526M/UL54_A647V/UL54_N685S/UL54_A688V/UL54_V812L/UL54_A885T/UL54_N898D/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,5.1,5.1,Medium
+UL54_V526M/UL54_D588N/UL54_A647V/UL54_N685S/UL54_A688V/UL54_V812L/UL54_V812L/UL54_A885T/UL54_N898D/UL97_C592G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,1.9,1.9,Susceptible
+UL54_V526M/UL54_D588N/UL54_A647V/UL54_N685S/UL54_A688V/UL54_V812L/UL54_V812L/UL54_A885T/UL54_N898D/UL97_C592G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,3.6,3.6,Low
+UL54_V526M/UL54_D588N/UL54_A647V/UL54_N685S/UL54_A688V/UL54_V812L/UL54_V812L/UL54_A885T/UL54_N898D/UL97_C592G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,springer_kl_how_2005,1,1,NA,3.8,3.8,Low
+UL54_V544A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,1.055555556,1.055555556,Susceptible
+UL54_V544A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,0.925,0.925,Susceptible
+UL54_V544A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2011,1,1,NA,0.983050847,0.983050847,Susceptible
+UL54_V654G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.142857143,1.142857143,Susceptible
+UL54_V654G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.076923077,1.076923077,Susceptible
+UL54_V654G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.113207547,1.113207547,Susceptible
+UL54_V694I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,0.991525424,0.991525424,Susceptible
+UL54_V694Q,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,1.5,1.5,Susceptible
+UL54_V694Q,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zarrouk_k_impact_2021,1,1,NA,0.477272727,0.477272727,Susceptible
+UL54_V715A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,0.468085106,0.468085106,Susceptible
+UL54_V715A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,2.491423002,2.491423002,Low
+UL54_V715A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,1.770562771,1.770562771,Susceptible
+UL54_V715M,Ganciclovir,"fischer_l_identification_2016, zarrouk_k_differential_2021",2,1.203680467,0.796422911,1.819192603,0,0,0.110499244,0.032504502,5.703330527,"fischer_l_identification_2016, cihlar_t_characterization_1998, zarrouk_k_differential_2021, baldanti_f_single_1996",4,4,1.1654778,NA,1.203680467,Susceptible
+UL54_V715M,Foscarnet,"fischer_l_identification_2016, ducancelle_a_development_2007, zarrouk_k_differential_2021",3,5.308770558,0.602431008,46.78219495,0.750713319,97.52485293,0.080819747,0.505767614,3.300646836,"fischer_l_identification_2016, ducancelle_a_development_2007, cihlar_t_characterization_1998, zarrouk_k_differential_2021, baldanti_f_single_1996, bedard_comparative_1999",6,6,5.197943315,NA,5.308770558,Medium
+UL54_V715M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2016, cihlar_t_characterization_1998, baldanti_f_single_1996, bedard_comparative_1999",4,4,0.921427959,NA,0.921427959,Susceptible
+UL54_V715M/UL97_A594T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,0.659574468,0.659574468,Susceptible
+UL54_V715M/UL97_A594T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2016, fischer_generation_2015",2,2,4.821255248,NA,4.821255248,Low
+UL54_V715M/UL97_A594T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"fischer_l_identification_2016, fischer_generation_2015",2,2,3.678498719,NA,3.678498719,Low
+UL54_V715M/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_z-isomers_2002,1,1,NA,9.3,9.3,Medium
+UL54_V715M/UL97_M460I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_z-isomers_2002,1,1,NA,14.8,14.8,Medium
+UL54_V715S,Ganciclovir,"zarrouk_k_impact_2021, zarrouk_k_differential_2021",2,2.743528461,2.041672902,3.686657354,0,0,0.014666015,0.023254413,43.40014349,"zarrouk_k_impact_2021, zarrouk_k_differential_2021",2,2,2.744928421,NA,2.743528461,Low
+UL54_V715S,Foscarnet,"zarrouk_k_impact_2021, zarrouk_k_differential_2021",2,2.785714286,2.785714286,2.785714286,0,0,0,0,Inf,"zarrouk_k_impact_2021, zarrouk_k_differential_2021",2,2,2.785714286,NA,2.785714286,Low
+UL54_V759M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,1.1,1.1,Susceptible
+UL54_V759M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,1.1,1.1,Susceptible
+UL54_V759M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cihlar_t_characterization_1998,1,1,NA,1.5,1.5,Susceptible
+UL54_V781I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, tchesnokov_ep_engineering_2009, cihlar_t_characterization_1998",3,3,3.749848883,NA,3.749848883,Low
+UL54_V781I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, cihlar_t_characterization_1998",2,2,1.556832944,NA,1.556832944,Susceptible
+UL54_V781I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotypic_2011, cihlar_t_characterization_1998",2,2,1.341640786,NA,1.341640786,Susceptible
+UL54_V781I/UL54_INS884_S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,15.2,15.2,High
+UL54_V781I/UL54_INS884_S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,20.6,20.6,High
+UL54_V781I/UL54_INS884_S/UL54_A1122T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,4,4,Low
+UL54_V781I/UL54_INS884_S/UL54_A1122T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mousavi-jazi_m_variations_2001,1,1,NA,3.2,3.2,Low
+UL54_V781I/UL54_N885T/UL54_S897L/UL54_R1052C/UL54_A1122T/UL97_L595F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,6.5,6.5,Medium
+UL54_V781I/UL54_N885T/UL54_S897L/UL54_R1052C/UL54_A1122T/UL97_L595F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,4.7,4.7,Low
+UL54_V781I/UL54_N885T/UL54_S897L/UL54_R1052C/UL54_A1122T/UL97_L595F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,3.8,3.8,Low
+UL54_V787A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"andouard_d_contrasting_2016, piret_j_compartmentalization_2019",2,3,4.188366696,NA,4.188366696,Low
+UL54_V787A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"andouard_d_contrasting_2016, piret_j_compartmentalization_2019",2,3,3.269232157,NA,3.269232157,Low
+UL54_V787A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"andouard_d_contrasting_2016, piret_j_compartmentalization_2019",2,3,1.028453277,NA,1.028453277,Susceptible
+UL54_V787A/UL97_A594P/UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,daikoku_t_rapid_2013,1,1,NA,5.1,5.1,Medium
+UL54_V787E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_compartmentalization_2019,1,2,8.431457632,NA,8.431457632,Medium
+UL54_V787E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_compartmentalization_2019,1,2,3.396358798,NA,3.396358798,Low
+UL54_V787E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_compartmentalization_2019,1,2,2.881128299,NA,2.881128299,Low
+UL54_V787L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.4,1.4,Susceptible
+UL54_V787L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,2.638181192,NA,2.638181192,Low
+UL54_V787L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,1.897366596,NA,1.897366596,Susceptible
+UL54_V787L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, gilbert_c_recombinant_2011",2,2,1.272792206,NA,1.272792206,Susceptible
+UL54_V798A,Cidofovir,chou_s_foscarnet_2017,2,1.040590667,0.599906043,1.804997548,0,0,0.527230048,0.043346597,0.917915217,chou_s_foscarnet_2017,1,2,1.044465936,NA,1.040590667,Susceptible
+UL54_V798A,Ganciclovir,chou_s_foscarnet_2017,2,1.506459929,1.044727874,2.172260905,0,0,0.044679311,0.0288053,14.22524617,chou_s_foscarnet_2017,1,2,1.501262095,NA,1.506459929,Susceptible
+UL54_V798A,Foscarnet,chou_s_foscarnet_2017,2,1.689067546,0.992460253,2.874623106,0,0,0.050718895,0.041849235,12.52535759,chou_s_foscarnet_2017,1,2,1.735698102,NA,1.689067546,Susceptible
+UL54_V812L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.9,1.9,Susceptible
+UL54_V812L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_novel_2016, gilbert_c_recombinant_2011, cihlar_t_point_1998",4,4,2.875614089,NA,2.875614089,Low
+UL54_V812L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_novel_2016, gilbert_c_recombinant_2011, cihlar_t_point_1998",4,4,2.363407713,NA,2.363407713,Low
+UL54_V812L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_novel_2016, gilbert_c_recombinant_2011, cihlar_t_point_1998",4,4,1.493738068,NA,1.493738068,Susceptible
+UL54_V823A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,3.625,3.625,Low
+UL54_V823A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,0.540540541,0.540540541,Susceptible
+UL54_V823A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_drug_2022,1,1,NA,2.459016393,2.459016393,Low
+UL54_V823A/UL54_V824L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,thomsen_dr_amino_2003,1,1,NA,0.8,0.8,Susceptible
+UL54_V823A/UL54_V824L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,thomsen_dr_amino_2003,1,1,NA,0.5,0.5,Susceptible
+UL54_V823A/UL54_V824L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,thomsen_dr_amino_2003,1,1,NA,1,1,Susceptible
+UL54_V902G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1,1,Susceptible
+UL54_V902G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1,1,Susceptible
+UL54_V902G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotypic_2014,1,1,NA,1.198113208,1.198113208,Susceptible
+UL54_V946L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,0.9,0.9,Susceptible
+UL54_V946L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,2.4,2.4,Low
+UL54_V946L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_recombinant_2011,1,1,NA,1.1,1.1,Susceptible
+UL54_W780V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_contrasting_2015,1,1,NA,1.85,1.85,Susceptible
+UL54_W780V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_contrasting_2015,1,1,NA,1.5,1.5,Susceptible
+UL56_A327V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_phenotypic_2015,1,1,NA,0.842105263,0.842105263,Susceptible
+UL56_A327V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_phenotypic_2015,1,1,NA,0.477876106,0.477876106,Susceptible
+UL56_A327V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_phenotypic_2015,1,1,NA,0.773195876,0.773195876,Susceptible
+UL56_A327V,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_phenotypic_2015,1,1,NA,0.317073171,0.317073171,Susceptible
+UL56_A365S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_new_2018,1,1,NA,2.037209302,2.037209302,Low
+UL56_A425V/UL56_V471A/UL56_V476A/UL56_D586N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,2,1.529705854,NA,1.529705854,Susceptible
+UL56_A425V/UL56_V471A/UL56_V476A/UL56_D586N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,2,0.848528137,NA,0.848528137,Susceptible
+UL56_A425V/UL56_V471A/UL56_V476A/UL56_D586N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,2,0.707106781,NA,0.707106781,Susceptible
+UL56_A425V/UL56_V471A/UL56_V476A/UL56_D586N,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,2,0.374165739,NA,0.374165739,Susceptible
+UL56_C25F,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_new_2018,1,1,NA,5.395348837,5.395348837,Medium
+UL56_C25F/UL56_V231L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_new_2018,1,1,NA,46.51162791,46.51162791,High
+UL56_C325F,Letermovir,"piret_j_vitro_2022, chou_s_rapid_2015",2,3764.163669,1918.020287,7387.267079,0,0,0.004102936,0.053063221,155.159842,"piret_j_vitro_2022, chou_s_rapid_2015",2,2,3976.355556,NA,3764.163669,High
+UL56_C325F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.2,1.2,Susceptible
+UL56_C325F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.633507853,0.633507853,Susceptible
+UL56_C325F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.2,1.2,Susceptible
+UL56_C325F,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.2,1.2,Susceptible
+UL56_C325R,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,3508.77193,3508.77193,High
+UL56_C325W,Letermovir,"chou_s_new_2018, douglas_cm_letermovir_2020",2,8979.312635,4502.960305,17905.56654,0.003056559,43.29303718,0.003798897,0.054318998,167.5781762,"chou_s_new_2018, douglas_cm_letermovir_2020",2,2,8765.731207,NA,8979.312635,High
+UL56_C325W,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.137931034,1.137931034,Susceptible
+UL56_C325W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,0.760041408,0.760041408,Susceptible
+UL56_C325W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.276264591,1.276264591,Susceptible
+UL56_C325Y,Ganciclovir,goldner_t_geno-_2014,3,0.858767695,0.366465443,2.012418816,0,0,0.522161372,0.197923066,-0.769272796,goldner_t_geno-_2014,1,3,0.835861885,NA,0.858767695,Susceptible
+UL56_C325Y,Letermovir,"chou_s_new_2018, chou_s_rapid_2015, goldner_t_geno-_2014, zhang_thioxothiazolo34-quinazoline_2023",6,5892.776699,4011.730792,8655.819401,0.123241307,94.13275974,2.87279238467313e-08,0.1495788,58.03952574,"chou_s_new_2018, chou_s_rapid_2015, goldner_t_geno-_2014, zhang_thioxothiazolo34-quinazoline_2023",4,6,5990.269083,NA,5892.776699,High
+UL56_C325Y,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,1.944444444,1.944444444,Susceptible
+UL56_C325Y,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,1.326315789,1.326315789,Susceptible
+UL56_D242G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_phenotypic_2015,1,1,NA,0.684210526,0.684210526,Susceptible
+UL56_D242G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_phenotypic_2015,1,1,NA,0.699115044,0.699115044,Susceptible
+UL56_D242G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_phenotypic_2015,1,1,NA,0.664948454,0.664948454,Susceptible
+UL56_D242G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_phenotypic_2015,1,1,NA,0.487804878,0.487804878,Susceptible
+UL56_D414N,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.285714286,0.285714286,Susceptible
+UL56_D414N,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.423423423,0.423423423,Susceptible
+UL56_D414N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.403141361,0.403141361,Susceptible
+UL56_D414N,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.931034483,0.931034483,Susceptible
+UL56_DEL445-447/UL56_E485G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,0.995073892,0.995073892,Susceptible
+UL56_DEL789-791,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.270935961,1.270935961,Susceptible
+UL56_E237D,Letermovir,"chou_s_rapid_2015, chou_s_comparison_2017",2,12.87731794,0.712268593,232.8129005,0.098760361,95.03447337,0.056605808,0.227823156,11.2168908,"chou_s_rapid_2015, chou_s_comparison_2017",2,2,12.78055425,NA,12.87731794,Medium
+UL56_E237D/UL56_T244K/UL56_F261L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,103.5087719,103.5087719,High
+UL56_E237D/UL89_D344E,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,33.94736842,33.94736842,High
+UL56_E237G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.206896552,1.206896552,Susceptible
+UL56_E237G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,0.952380952,0.952380952,Susceptible
+UL56_E237G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.984435798,1.984435798,Susceptible
+UL56_E237G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,13.42412451,13.42412451,Medium
+UL56_E339G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,1.210526316,1.210526316,Susceptible
+UL56_E407D,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.342105263,1.342105263,Susceptible
+UL56_E485G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,0.926108374,0.926108374,Susceptible
+UL56_E769D,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.026315789,1.026315789,Susceptible
+UL56_F261C,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,4.385964912,4.385964912,Low
+UL56_F261L,Letermovir,"chou_s_rapid_2015, chou_s_comparison_2017",2,2.595393277,1.446952424,4.65534744,0.001124387,20.25769241,0.03067036,0.045983714,20.740779,"chou_s_rapid_2015, chou_s_comparison_2017",2,2,2.662970661,NA,2.595393277,Low
+UL56_F261L/UL89_D344E,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,4.736842105,4.736842105,Low
+UL56_F345L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1.67,1.67,Susceptible
+UL56_F345L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,0.98,0.98,Susceptible
+UL56_F345L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1.42,1.42,Susceptible
+UL56_F345L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,0.99,0.99,Susceptible
+UL56_F626S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,0.640394089,0.640394089,Susceptible
+UL56_H335Y,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,0.842105263,0.842105263,Susceptible
+UL56_H637Q,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,0.894736842,0.894736842,Susceptible
+UL56_H637Q/UL56_V639M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.210526316,1.210526316,Susceptible
+UL56_K258E,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,13.68421053,13.68421053,Medium
+UL56_K350R,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,1.052631579,1.052631579,Susceptible
+UL56_L134V/UL56_Q228H,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.428571429,0.428571429,Susceptible
+UL56_L134V/UL56_Q228H,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.720720721,0.720720721,Susceptible
+UL56_L134V/UL56_Q228H,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.659685864,0.659685864,Susceptible
+UL56_L134V/UL56_Q228H,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.620689655,0.620689655,Susceptible
+UL56_L208M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,0.815789474,0.815789474,Susceptible
+UL56_L241P,Ganciclovir,"goldner_t_novel_2011, goldner_t_geno-_2014",5,0.582870833,0.28890447,1.175954144,0.235930392,75.31216608,0.099613416,0.252794311,-2.135292007,"goldner_t_novel_2011, goldner_t_geno-_2014",2,5,0.598756767,NA,0.582870833,Susceptible
+UL56_L241P,Foscarnet,"goldner_t_novel_2011, goldner_t_geno-_2014",2,0.851937534,0.019778335,36.6965957,0,0,0.684253081,0.296148704,-0.541086519,"goldner_t_novel_2011, goldner_t_geno-_2014",2,2,0.896351867,NA,0.851937534,Susceptible
+UL56_L241P,Cidofovir,"goldner_t_novel_2011, goldner_t_geno-_2014",2,0.880781959,0.046189125,16.79566034,0,0,0.68128184,0.232017804,-0.547135494,"goldner_t_novel_2011, goldner_t_geno-_2014",2,2,0.921132373,NA,0.880781959,Susceptible
+UL56_L241P,Letermovir,"chou_s_third_2017, chou_s_rapid_2015, goldner_t_novel_2011, goldner_t_geno-_2014",7,173.2841049,126.1132018,238.0986335,0.09143586,80.61689177,1.70788047584193e-08,0.129858598,39.69650499,"chou_s_third_2017, chou_s_rapid_2015, goldner_t_novel_2011, goldner_t_geno-_2014",4,7,182.9659976,NA,173.2841049,High
+UL56_L243P,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,1,1,Susceptible
+UL56_L254F,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,3.243243243,3.243243243,Low
+UL56_L257F,Letermovir,"chou_s_new_2018, chou_s_third_2017",2,11.00515022,0.349771473,346.2641769,0.143623931,97.47049157,0.071742783,0.271429487,8.836045743,"chou_s_new_2018, chou_s_third_2017",2,2,10.9911112,NA,11.00515022,Medium
+UL56_L257I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,4.912280702,4.912280702,Low
+UL56_L328I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,1.421052632,1.421052632,Susceptible
+UL56_L328V,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_new_2018,1,1,NA,1.865116279,1.865116279,Susceptible
+UL56_L51M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,0.754385965,0.754385965,Susceptible
+UL56_L726V,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.275862069,1.275862069,Susceptible
+UL56_L764M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.131578947,1.131578947,Susceptible
+UL56_M329I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_phenotypes_2024,1,1,NA,0.769230769,0.769230769,Susceptible
+UL56_M329T,Letermovir,"chou_s_rapid_2015, chou_s_comparison_2017",2,4.422130056,3.906564526,5.005736907,0,0,0.004177825,0.009756111,152.3784939,"chou_s_rapid_2015, chou_s_comparison_2017",2,2,4.429607429,NA,4.422130056,Low
+UL56_M329T/UL89_D344E,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,7.894736842,7.894736842,Medium
+UL56_M3V,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,0.960591133,0.960591133,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,4,0.896793605,NA,0.896793605,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,4,0.869354787,NA,0.869354787,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,4,0.734594788,NA,0.734594788,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,4,0.623573927,NA,0.623573927,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_A594V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,Susceptible,Susceptible,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_A594V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1,1,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,6.5,6.5,Medium
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_A594V,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.2,1.2,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_E596G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,Susceptible,Susceptible,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_E596G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.9,0.9,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_E596G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,3.1,3.1,Low
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_E596G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.2,0.2,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_L595S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.7,0.7,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.8,1.8,Susceptible
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,8.5,8.5,Medium
+UL56_M442T/UL56_T452I/UL56_S454N/UL56_V471A/UL97_L595S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.7,0.7,Susceptible
+UL56_N232Y,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,16.84210526,16.84210526,High
+UL56_N368D,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,2,2,Low
+UL56_N368I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,1.315789474,1.315789474,Susceptible
+UL56_P800L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,0.13,0.13,Susceptible
+UL56_P800L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1,1,Susceptible
+UL56_P800L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,0.23,0.23,Susceptible
+UL56_P800L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_genotypic_2022,1,1,NA,1.11,1.11,Susceptible
+UL56_Q204R,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.526315789,1.526315789,Susceptible
+UL56_Q204R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,krosky_pm_resistance_1998,1,2,1.122497216,NA,1.122497216,Susceptible
+UL56_Q204R/UL89_D343E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,krosky_pm_resistance_1998,1,4,0.810720093,NA,0.810720093,Susceptible
+UL56_Q204R/UL89_D344E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bedard_comparative_1999,1,1,NA,0.7,0.7,Susceptible
+UL56_Q204R/UL89_D344E,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,2.473684211,2.473684211,Low
+UL56_Q234R,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,2,2,Low
+UL56_R246C,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_assessment_2022,1,1,NA,1.75,1.75,Susceptible
+UL56_R246C,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_assessment_2022,1,1,NA,0.888375997,0.888375997,Susceptible
+UL56_R246C,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_assessment_2022,1,1,NA,0.576923077,0.576923077,Susceptible
+UL56_R246C,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_assessment_2022,1,1,NA,0.8,0.8,Susceptible
+UL56_R246C,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_assessment_2022,1,1,NA,0.5,0.5,Susceptible
+UL56_R369G,Ganciclovir,goldner_t_geno-_2014,2,0.53906306,0.065786578,4.417146976,0,0,0.166638399,0.165542487,-3.73271378,goldner_t_geno-_2014,1,2,0.559556846,NA,0.53906306,Susceptible
+UL56_R369G,Letermovir,goldner_t_geno-_2014,2,25.22733442,0.012746645,49928.30608,0.586969511,81.43748135,0.116498395,0.597378637,5.403487677,goldner_t_geno-_2014,1,2,23.77430107,NA,25.22733442,High
+UL56_R369G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,0.777777778,0.777777778,Susceptible
+UL56_R369G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,0.578947368,0.578947368,Susceptible
+UL56_R369K,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,4.947368421,4.947368421,Low
+UL56_R369M,Ganciclovir,goldner_t_geno-_2014,3,0.979449275,0.381999954,2.511311511,0.069563632,44.04820461,0.933054452,0.218834756,-0.094888171,goldner_t_geno-_2014,1,3,0.912609665,NA,0.979449275,Susceptible
+UL56_R369M,Letermovir,"chou_s_third_2017, goldner_t_geno-_2014",4,16.32249846,14.40248177,18.49847549,2.60255074689179e-06,0.007441605,6.15327422895294e-06,0.039323175,71.01523288,"chou_s_third_2017, goldner_t_geno-_2014",2,4,17.31664756,NA,16.32249846,High
+UL56_R369M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,1,1,Susceptible
+UL56_R369M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,0.715789474,0.715789474,Susceptible
+UL56_R369S,Foscarnet,"goldner_t_novel_2011, goldner_t_geno-_2014",2,0.563858411,0.108760536,2.923269038,0,0,0.141529253,0.129515828,-4.423799877,"goldner_t_novel_2011, goldner_t_geno-_2014",2,2,0.564102347,NA,0.563858411,Susceptible
+UL56_R369S,Cidofovir,"goldner_t_novel_2011, goldner_t_geno-_2014",2,0.778964977,0.144471455,4.200043782,0,0,0.310689715,0.132603258,-1.883733459,"goldner_t_novel_2011, goldner_t_geno-_2014",2,2,0.778498944,NA,0.778964977,Susceptible
+UL56_R369S,Ganciclovir,"goldner_t_novel_2011, goldner_t_geno-_2014",3,1.121198032,1.026954055,1.224090816,0,0,0.030376659,0.020406154,5.606043508,"goldner_t_novel_2011, goldner_t_geno-_2014",2,3,1.111670748,NA,1.121198032,Susceptible
+UL56_R369S,Letermovir,"goldner_t_novel_2011, goldner_t_geno-_2014",3,51.77669645,24.57457566,109.0894237,0.036699796,32.62878611,0.001920137,0.173201934,22.78808373,"goldner_t_novel_2011, goldner_t_geno-_2014",2,3,48.90332501,NA,51.77669645,High
+UL56_R369S/UL89_A345S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,1.111111111,1.111111111,Susceptible
+UL56_R369S/UL89_A345S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,80.43478261,80.43478261,High
+UL56_R369T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.034482759,1.034482759,Susceptible
+UL56_R369T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,0.82815735,0.82815735,Susceptible
+UL56_R369T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.439688716,1.439688716,Susceptible
+UL56_R369T,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,52.70935961,52.70935961,High
+UL56_R410G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.238095238,0.238095238,Susceptible
+UL56_R410G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.414414414,0.414414414,Susceptible
+UL56_R410G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.753926702,0.753926702,Susceptible
+UL56_R410G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.413793103,0.413793103,Susceptible
+UL56_R816W,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,0.985221675,0.985221675,Susceptible
+UL56_S227I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.333333333,0.333333333,Susceptible
+UL56_S227I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.423423423,0.423423423,Susceptible
+UL56_S227I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.397905759,0.397905759,Susceptible
+UL56_S227I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lischka_p_characterization_2016,1,1,NA,0.206896552,0.206896552,Susceptible
+UL56_S229F,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,1.783783784,1.783783784,Susceptible
+UL56_S229F/UL56_L254F/UL56_L257I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,53.51351351,53.51351351,High
+UL56_S229Y,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_phenotypes_2024,1,1,NA,2.076923077,2.076923077,Low
+UL56_S255L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.157635468,1.157635468,Susceptible
+UL56_S262C,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,1,1,Susceptible
+UL56_S445N/UL56_V471A/UL56_V476A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,2,1.2,NA,1.2,Susceptible
+UL56_S445N/UL56_V471A/UL56_V476A,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,2,0.994987437,NA,0.994987437,Susceptible
+UL56_S445N/UL56_V471A/UL56_V476A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,2,0.734846923,NA,0.734846923,Susceptible
+UL56_S445N/UL56_V471A/UL56_V476A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,2,0.547722558,NA,0.547722558,Susceptible
+UL56_T244K,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,3.333333333,3.333333333,Low
+UL56_T244K/UL56_F261L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,8.245614035,8.245614035,Medium
+UL56_T399I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,0.789473684,0.789473684,Susceptible
+UL56_T775I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.093596059,1.093596059,Susceptible
+UL56_V231A,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,2.105263158,2.105263158,Low
+UL56_V231L,Ganciclovir,goldner_t_geno-_2014,2,0.687525754,0.000667888,707.7410939,0.495332631,83.0132461,0.617105051,0.545932832,-0.686267555,goldner_t_geno-_2014,1,2,0.675663925,NA,0.687525754,Susceptible
+UL56_V231L,Letermovir,"chou_s_new_2018, chou_s_relative_2022, chou_s_third_2017, chou_s_rapid_2015, goldner_t_geno-_2014, chou_phenotypes_2024",7,8.249430568,5.01629033,13.56642065,0.246048691,98.9722391,4.68175129843708e-05,0.203298494,10.3795367,"chou_s_new_2018, chou_s_relative_2022, chou_s_third_2017, chou_s_rapid_2015, goldner_t_geno-_2014, chou_phenotypes_2024",6,7,8.483942137,NA,8.249430568,Medium
+UL56_V231L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,0.5,0.5,Susceptible
+UL56_V231L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,0.705263158,0.705263158,Susceptible
+UL56_V236A,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_new_2018,1,1,NA,2.865116279,2.865116279,Low
+UL56_V236L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,14.03508772,14.03508772,Medium
+UL56_V236L/UL56_L257I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,263.1578947,263.1578947,High
+UL56_V236M,Foscarnet,"piret_j_vitro_2022, piret_j_drug_2017, lischka_p_characterization_2016, goldner_t_geno-_2014",4,0.793875249,0.401897837,1.568154524,0.136348194,84.77290261,0.359555252,0.213900989,-1.079139222,"piret_j_vitro_2022, piret_j_drug_2017, lischka_p_characterization_2016, goldner_t_geno-_2014",4,4,0.856128315,NA,0.793875249,Susceptible
+UL56_V236M,Ganciclovir,"piret_j_drug_2017, lischka_p_characterization_2016, goldner_t_geno-_2014",3,1.171054941,0.730336781,1.87772232,0,0,0.286787643,0.109735677,1.438957744,"piret_j_vitro_2022, piret_j_drug_2017, lischka_p_characterization_2016, goldner_t_geno-_2014",4,4,1.197434687,NA,1.171054941,Susceptible
+UL56_V236M,Cidofovir,"piret_j_drug_2017, lischka_p_characterization_2016, goldner_t_geno-_2014",3,1.366654707,0.366330056,5.098530834,0.207089641,62.10230019,0.414717906,0.305994133,1.020823277,"piret_j_vitro_2022, piret_j_drug_2017, lischka_p_characterization_2016, goldner_t_geno-_2014",4,4,1.451959058,NA,1.366654707,Susceptible
+UL56_V236M,Letermovir,"chou_s_new_2018, piret_j_vitro_2022, douglas_cm_letermovir_2020, chou_s_third_2017, piret_j_drug_2017, lischka_p_characterization_2016, goldner_t_geno-_2014, chou_s_antiviral_2018",8,37.66016864,28.55622778,49.66651452,0.099991242,93.41702021,9.37200068115563e-09,0.117028299,31.00620146,"chou_s_new_2018, piret_j_vitro_2022, douglas_cm_letermovir_2020, chou_s_third_2017, piret_j_drug_2017, lischka_p_characterization_2016, goldner_t_geno-_2014, chou_s_antiviral_2018",8,8,38.0313033,NA,37.66016864,High
+UL56_V236M,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_antiviral_2018",2,2,1.048808848,NA,1.048808848,Susceptible
+UL56_V236M/UL56_L257I/UL56_M329T,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,3157.894737,3157.894737,High
+UL56_V236M/UL89_A345S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,0.388888889,0.388888889,Susceptible
+UL56_V236M/UL89_A345S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,goldner_t_geno-_2014,1,1,NA,19.56521739,19.56521739,High
+UL56_V363I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_relative_2022,1,1,NA,3.684210526,3.684210526,Low
+UL56_V471A/UL56_V476A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,5,1.045980378,NA,1.045980378,Susceptible
+UL56_V471A/UL56_V476A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,5,0.729465975,NA,0.729465975,Susceptible
+UL56_V471A/UL56_V476A,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,5,0.723324271,NA,0.723324271,Susceptible
+UL56_V471A/UL56_V476A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,5,0.524250722,NA,0.524250722,Susceptible
+UL56_V471A/UL56_V476A/UL97_A594V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.3,1.3,Susceptible
+UL56_V471A/UL56_V476A/UL97_A594V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,Susceptible,Susceptible,Susceptible
+UL56_V471A/UL56_V476A/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,6.2,6.2,Medium
+UL56_V471A/UL56_V476A/UL97_A594V,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.3,1.3,Susceptible
+UL56_V476A,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.4,0.4,Susceptible
+UL56_V476A,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.4,0.4,Susceptible
+UL56_V476A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.6,0.6,Susceptible
+UL56_V476A,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,2,2,Low
+UL56_V639M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.052631579,1.052631579,Susceptible
+UL56_V814A,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.305418719,1.305418719,Susceptible
+UL56_Y321C,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_rapid_2015,1,1,NA,4.561403509,4.561403509,Low
+UL56_Y575C,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,1.02955665,1.02955665,Susceptible
+UL89_A344Q/UL89_A355V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,biron_kk_potent_2002,1,1,NA,0.774193548,0.774193548,Susceptible
+UL89_C347S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,0.631578947,0.631578947,Susceptible
+UL89_D244E,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_third_2017,1,1,NA,1.571428571,1.571428571,Susceptible
+UL89_D343E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,krosky_pm_resistance_1998,1,3,0.94615249,NA,0.94615249,Susceptible
+UL89_D344E,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.842105263,1.842105263,Susceptible
+UL89_D344E,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_antiviral_2018,1,1,NA,0.75,0.75,Susceptible
+UL89_E256Q,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gentry_bg_human_2015,1,1,NA,0.43,0.43,Susceptible
+UL89_H389N,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.078947368,1.078947368,Susceptible
+UL89_I334V,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.052631579,1.052631579,Susceptible
+UL89_I334V/UL89_N405D,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.184210526,1.184210526,Susceptible
+UL89_I531T,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,douglas_cm_letermovir_2020,1,1,NA,0.995073892,0.995073892,Susceptible
+UL89_M359I,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.473684211,1.473684211,Susceptible
+UL89_N320H,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.842105263,1.842105263,Susceptible
+UL89_N329S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,2.026315789,2.026315789,Low
+UL89_N405D,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.026315789,1.026315789,Susceptible
+UL89_R351H,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,0.684210526,0.684210526,Susceptible
+UL89_T350M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,2.894736842,2.894736842,Low
+UL89_V362M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_comparison_2017,1,1,NA,1.236842105,1.236842105,Susceptible
+UL97_A378T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.975609756,0.975609756,Susceptible
+UL97_A378T,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,1.181818182,1.181818182,Susceptible
+UL97_A435V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,1,1,Susceptible
+UL97_A435V,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.581818182,0.581818182,Susceptible
+UL97_A440V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.237623762,1.237623762,Susceptible
+UL97_A442G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010-1,1,1,NA,1.178217822,1.178217822,Susceptible
+UL97_A478V,Ganciclovir,chou_s_recombinant_2010,2,0.81513168,0.443952534,1.496645712,0,0,0.146308751,0.047821677,-4.274329553,chou_s_recombinant_2010,1,2,0.815883365,NA,0.81513168,Susceptible
+UL97_A588V,Ganciclovir,chou_s_recombinant_2010,2,1.063802878,0.561878989,2.014093046,0,0,0.434274344,0.050236786,1.231171705,chou_s_recombinant_2010,1,2,1.05266714,NA,1.063802878,Susceptible
+UL97_A591V,Ganciclovir,"fischer_l_identification_2016, chou_s_differentiated_2017",5,3.261829483,2.228903841,4.773436782,0.081517607,92.29240268,0.000995409,0.137145991,8.620654676,"fischer_l_identification_2016, chou_s_differentiated_2017, chou_s_cytomegalovirus_2002",3,6,2.774966973,NA,3.261829483,Low
+UL97_A591V/UL97_L595W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_frequency_1995,1,1,NA,10.2,10.2,Medium
+UL97_A594E,Ganciclovir,chou_s_recombinant_2010,2,2.987837402,2.846416894,3.136284203,0,0,0.002219571,0.003816157,286.8198998,chou_s_recombinant_2010,1,2,2.996008507,NA,2.987837402,Low
+UL97_A594G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bourgeois_c_value_1997,1,1,NA,13.5,13.5,Medium
+UL97_A594P,Ganciclovir,"chou_drug_2024, chou_ganciclovir_2024",2,8.297794321,7.350037623,9.367760293,0,0,0.002871788,0.009545282,221.67913,"ijichi_o_gcv_2002, chou_drug_2024, chou_ganciclovir_2024",3,3,5.825420403,NA,8.297794321,Medium
+UL97_A594P,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_ganciclovir_2024,1,1,NA,1.822033898,1.822033898,Susceptible
+UL97_A594P/UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ijichi_o_gcv_2002,1,2,3.872983346,NA,3.872983346,Low
+UL97_A594S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wong_dd_patient-derived_2019,1,1,NA,4.25,4.25,Low
+UL97_A594T,Ganciclovir,"fischer_l_identification_2016, chou_ganciclovir_2024",2,4.838846747,0.544332489,43.01495555,0.039042395,56.90277524,0.069156744,0.171953112,9.169222945,"fischer_l_identification_2016, foulongne_v_ganciclovir_2004, chou_s_cytomegalovirus_2002, gilbert_c_discordant_2003, abraham_b_ganciclovir_1999, chou_ganciclovir_2024",6,7,2.755114715,NA,4.838846747,Low
+UL97_A594T,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_ganciclovir_2024,1,1,NA,0.830508475,0.830508475,Susceptible
+UL97_A594V,Ganciclovir,"chou_s_phenotyping_2005, chou_s_recombinant_2010, drouot_e_characterization_2014, chou_s_differentiated_2017, wong_dd_patient-derived_2019, drouot_e_novel_2013, biron_kk_potent_2002, wolf_dg_emergence_2001, talarico_cl_acyclovir_1999, chou_ganciclovir_2024",12,6.888607892,6.146008312,7.720933049,0.015300812,64.66437596,6.32057760959731e-13,0.051825066,37.23813918,"chou_s_phenotyping_2005, chou_s_recombinant_2010, smith_il_high-level_1997, drouot_e_characterization_2014, chou_s_differentiated_2017, foulongne_v_ganciclovir_2004, wong_dd_patient-derived_2019, chou_s_cytomegalovirus_2011, drew_wl_maribavir_2006, germi_r_success_2014, drouot_e_novel_2013, gilbert_c_discordant_2003, biron_kk_potent_2002, wolf_dg_emergence_2001, cohen_t_convallatoxin-induced_2016, abraham_b_ganciclovir_1999, chou_s_frequency_1995, alain_s_value_1995, erice_a_ganciclovir_1998, baldanti_z-isomers_2002, talarico_cl_acyclovir_1999, chou_s_analysis_1995, chou_ganciclovir_2024",23,29,6.805142818,NA,6.888607892,Medium
+UL97_A594V,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"drew_wl_maribavir_2006, chou_ganciclovir_2024",2,2,1.945442305,NA,1.945442305,Susceptible
+UL97_A594V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,2,1.326649916,NA,1.326649916,Susceptible
+UL97_A594V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, chou_mutation_1997",2,3,1.308426524,NA,1.308426524,Susceptible
+UL97_A594V/UL97_C603W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"eckle_t_drug-resistant_2000, prix_l_comprehensive_1999, eckle_t_rapid_2002",3,3,5.403609841,NA,5.403609841,Medium
+UL97_A594V/UL97_C603W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"prix_l_comprehensive_1999, eckle_t_rapid_2002",2,2,1.2489996,NA,1.2489996,Susceptible
+UL97_A594V/UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotyping_2005,1,1,NA,10.11111111,10.11111111,Medium
+UL97_A594V/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"abraham_b_ganciclovir_1999, chou_s_frequency_1995, rosen_hr_development_1997",3,3,6.818576656,NA,6.818576656,Medium
+UL97_A594V/UL97_M615V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,foulongne_v_ganciclovir_2004,1,1,NA,14.2,14.2,Medium
+UL97_A605Q,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,alain_s_value_1995,1,1,NA,2.2,2.2,Low
+UL97_A613V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_generation_2013,1,1,NA,2.28,2.28,Low
+UL97_A619V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,1.61038961,1.61038961,Susceptible
+UL97_C437Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.951219512,0.951219512,Susceptible
+UL97_C437Y,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.909090909,0.909090909,Susceptible
+UL97_C480F,Ganciclovir,"chou_s_drug_2022, chou_ganciclovir_2024",2,2.340708918,1.934143361,2.832736367,0,0,0.011238865,0.015015445,56.63860364,"chou_s_drug_2022, santos_bravo_m_phenotype_2021, chou_ganciclovir_2024",3,3,4.565709713,NA,2.340708918,Low
+UL97_C480F,Maribavir,"chou_s_drug_2022, chou_ganciclovir_2024",2,236.2541187,215.1325353,259.4494064,0,0,0.00085863,0.007370707,741.4360184,"chou_s_drug_2022, chou_ganciclovir_2024",2,2,235.3024259,NA,236.2541187,High
+UL97_C480F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,santos_bravo_m_phenotype_2021,1,1,NA,0.84,0.84,Susceptible
+UL97_C480R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,komazin-meredith_g_human_2014,1,1,NA,8.833333333,8.833333333,Medium
+UL97_C480R,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,komazin-meredith_g_human_2014,1,1,NA,249.2307692,249.2307692,High
+UL97_C518Y,Ganciclovir,"zhang_y_new_2013, mina_evaluation_2019",2,12.304,12.304,12.304,0,0,0,0,Inf,"zhang_y_new_2013, mina_evaluation_2019",2,2,12.304,NA,12.304,Medium
+UL97_C592G,Foscarnet,"chou_s_phenotyping_2005, chou_s_growth_2007",2,0.980005871,0.283439169,3.38842197,0.017389224,90.73407196,0.870139862,0.097634271,-0.206860938,"chou_s_phenotyping_2005, chou_s_growth_2007, germi_r_success_2014",3,3,0.779399975,NA,0.980005871,Susceptible
+UL97_C592G,Cidofovir,"chou_s_phenotyping_2005, chou_s_growth_2007",2,1.227474782,1.207476365,1.247804416,0,0,0.004015472,0.001292794,158.5396127,"chou_s_phenotyping_2005, chou_s_growth_2007, germi_r_success_2014",3,3,1.472970405,NA,1.227474782,Susceptible
+UL97_C592G,Ganciclovir,"chou_s_drug_2022, chou_s_phenotyping_2005, chou_s_cytomegalovirus_2013, chou_s_novel_2019, chou_s_growth_2007, chou_s_foscarnet_2017, chou_s_recombinant_2010, chou_s_improved_2014, chou_s_differentiated_2017, chou_s_ganciclovir_2021, iwasenko_jm_successful_2009, chou_s_recombinant_2010-1, chou_ganciclovir_2024, chou_comparative_2025",17,3.010836209,2.860763679,3.168781379,0.008768687,81.25343434,2.19979495306749e-18,0.024118644,45.69982717,"chou_s_drug_2022, chou_s_phenotyping_2005, chou_s_cytomegalovirus_2013, chou_s_novel_2019, chou_s_growth_2007, chou_s_foscarnet_2017, chou_s_recombinant_2010, chou_s_improved_2014, chou_s_differentiated_2017, chou_s_ganciclovir_2021, chou_s_cytomegalovirus_2011, drew_wl_maribavir_2006, chou_s_cytomegalovirus_2002, germi_r_success_2014, iwasenko_jm_successful_2009, gilbert_c_discordant_2003, chou_s_recombinant_2010-1, chou_s_frequency_1995, alain_s_value_1995, baldanti_z-isomers_2002, chou_ganciclovir_2024, chou_comparative_2025",22,28,2.882560248,NA,3.010836209,Low
+UL97_C592G,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"drew_wl_maribavir_2006, chou_ganciclovir_2024",2,2,1.039067379,NA,1.039067379,Susceptible
+UL97_C592G/UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotyping_2005,1,1,NA,3.444444444,3.444444444,Low
+UL97_C603R,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.4,1.4,Susceptible
+UL97_C603R,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.5,1.5,Susceptible
+UL97_C603R,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.3,1.3,Susceptible
+UL97_C603R,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_recombinant_2010, martin_m_incidence_2010, chou_s_cytomegalovirus_2011",4,4,5.421777446,NA,5.421777446,Medium
+UL97_C603S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_recombinant_2010, chou_s_cytomegalovirus_2011",2,2,1.88427839,NA,1.88427839,Susceptible
+UL97_C603W,Ganciclovir,"chou_s_recombinant_2010, chou_s_recombinant_2010-1, schott_synthesis_2009, chou_ganciclovir_2024",4,7.026047567,5.146833059,9.591401906,0.024662258,79.5456433,0.000275875,0.09779984,19.93484172,"eckle_t_drug-resistant_2000, chou_s_recombinant_2010, smith_il_high-level_1997, foulongne_v_ganciclovir_2004, chou_s_cytomegalovirus_2011, prix_l_comprehensive_1999, chou_s_recombinant_2010-1, chou_s_evolution_1997, eckle_t_rapid_2002, schott_synthesis_2009, chou_ganciclovir_2024",11,12,4.988572468,NA,7.026047567,Medium
+UL97_C603W,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_ganciclovir_2024,1,1,NA,1.194915254,1.194915254,Susceptible
+UL97_C603W,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, prix_l_comprehensive_1999, chou_s_evolution_1997, eckle_t_rapid_2002",4,5,1.613821341,NA,1.613821341,Susceptible
+UL97_C603W,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, chou_s_evolution_1997",2,3,1.055526418,NA,1.055526418,Susceptible
+UL97_C603Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_ganciclovir_2024,1,1,NA,3.112781955,3.112781955,Low
+UL97_C603Y,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_ganciclovir_2024,1,1,NA,1.008474576,1.008474576,Susceptible
+UL97_C607F,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2002,1,1,NA,1.6,1.6,Susceptible
+UL97_C607Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_improved_2014, baldanti_f_cys607--tyr_1998, smith_il_clinical_1998, baldanti_z-isomers_2002",4,6,9.468571383,NA,9.468571383,Medium
+UL97_C607Y,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_improved_2014, smith_il_clinical_1998",2,2,1.544785951,NA,1.544785951,Susceptible
+UL97_C607Y,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_improved_2014, smith_il_clinical_1998",2,2,0.816496581,NA,0.816496581,Susceptible
+UL97_D456N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,komazin-meredith_g_human_2014,1,1,NA,11.16666667,11.16666667,Medium
+UL97_D456N,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,komazin-meredith_g_human_2014,1,1,NA,284.6153846,284.6153846,High
+UL97_D515E/UL97_L516M/UL97_I521T/UL97_A591V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zhang_thioxothiazolo34-quinazoline_2023,1,1,NA,13.47521866,13.47521866,Medium
+UL97_D605E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,nawashiro_y_persistent_2018,1,1,NA,0.8,0.8,Susceptible
+UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"ijichi_o_gcv_2002, sun_j_human_2012, nawashiro_y_persistent_2018",3,3,0.664939976,NA,0.664939976,Susceptible
+UL97_DEL355,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2013,1,1,NA,15.87128713,15.87128713,High
+UL97_DEL355,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2013,1,1,NA,304.1666667,304.1666667,High
+UL97_DEL498,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gentry_bg_resistance_2013,1,1,NA,14.05,14.05,Medium
+UL97_DEL590-593,Cidofovir,"gilbert_c_new_2005, james_sh_cyclopropavir_2011",2,1.249614124,0.001018882,1532.597394,0.541570831,85.93878111,0.758794455,0.559717442,0.398120169,"gilbert_c_new_2005, james_sh_cyclopropavir_2011",2,3,1.19351082,NA,1.249614124,Susceptible
+UL97_DEL590-593,Ganciclovir,"gilbert_c_new_2005, talarico_cl_acyclovir_1999",2,6.906037855,2.768242517,17.22875022,0.005727565,34.57568773,0.023691956,0.071947796,26.85830804,"gilbert_c_new_2005, james_sh_cyclopropavir_2011, talarico_cl_acyclovir_1999",3,4,4.263349731,NA,6.906037855,Medium
+UL97_DEL590-593,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gilbert_c_new_2005,1,1,NA,1.106626806,1.106626806,Susceptible
+UL97_DEL590-600,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wolf_dg_emergence_2001,1,1,NA,5.903225806,5.903225806,Medium
+UL97_DEL591-594,Ganciclovir,chou_s_differentiated_2017,2,10.06138312,6.537848972,15.48390469,0,0,0.009354898,0.033928025,68.04712706,chou_s_differentiated_2017,1,2,9.978765331,NA,10.06138312,Medium
+UL97_DEL591-607,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2002,1,1,NA,6.2,6.2,Medium
+UL97_DEL593-596,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,biron_kk_potent_2002,1,1,NA,13.22580645,13.22580645,Medium
+UL97_DEL595,Ganciclovir,"chou_s_differentiated_2017, biron_kk_potent_2002, wolf_dg_emergence_2001, talarico_cl_acyclovir_1999",5,6.601102523,4.481494467,9.72321953,0.078179636,87.85230488,0.000172718,0.139487759,13.52976556,"chou_s_differentiated_2017, baldanti_f_three-nucleotide_1995, biron_kk_potent_2002, wolf_dg_emergence_2001, baldanti_z-isomers_2002, talarico_cl_acyclovir_1999",6,7,7.342365542,NA,6.601102523,Medium
+UL97_DEL595-603,Ganciclovir,chou_s_differentiated_2017,2,9.091920311,5.251511686,15.74080377,0.00025719,6.794105099,0.012456618,0.043197019,51.10042772,chou_s_differentiated_2017,1,2,9.139076937,NA,9.091920311,Medium
+UL97_DEL596,Ganciclovir,chou_s_differentiated_2017,2,4.47719344,2.277750959,8.800462146,0.00268928,44.69523908,0.022579003,0.053187231,28.18338815,chou_s_differentiated_2017,1,2,4.417595672,NA,4.47719344,Low
+UL97_DEL597-598,Ganciclovir,chou_s_differentiated_2017,2,9.173195853,9.078358756,9.269023667,0,0,0.000234937,0.000817893,2709.750495,chou_s_differentiated_2017,1,2,9.174239297,NA,9.173195853,Medium
+UL97_DEL597-599,Ganciclovir,"fischer_l_identification_2016, chou_s_differentiated_2017",3,6.855875302,2.026867797,23.18998122,0.229246349,97.43690875,0.020966346,0.283223961,6.797115564,"fischer_l_identification_2016, chou_s_differentiated_2017",2,3,6.796204948,NA,6.855875302,Medium
+UL97_DEL597-603,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cohen_t_convallatoxin-induced_2016,1,1,NA,3.8,3.8,Low
+UL97_DEL599,Ganciclovir,chou_s_differentiated_2017,2,5.896101602,1.75711731,19.78468592,0.011237702,61.73245893,0.03415302,0.09527761,18.62233316,chou_s_differentiated_2017,1,2,5.867217605,NA,5.896101602,Medium
+UL97_DEL600,Ganciclovir,chou_s_differentiated_2017,2,5.981666165,4.258741277,8.401620991,0,0,0.009515307,0.026736978,66.89982633,"chou_s_differentiated_2017, chou_s_cytomegalovirus_2002",2,3,4.05229625,NA,5.981666165,Medium
+UL97_DEL600-601,Ganciclovir,chou_s_differentiated_2017,2,4.309782794,0.897277698,20.70064571,0.027388701,89.52894319,0.053692762,0.123504809,11.82858806,chou_s_differentiated_2017,1,2,4.337992833,NA,4.309782794,Low
+UL97_DEL601,Ganciclovir,chou_s_differentiated_2017,2,5.899370371,4.856493188,7.166193677,0,0,0.005491327,0.015309766,115.9289871,"chou_s_differentiated_2017, hantz_s_early_2005",2,3,8.235427987,NA,5.899370371,Medium
+UL97_DEL601-602,Ganciclovir,chou_s_differentiated_2017,2,5.248471721,3.08000822,8.943630481,0.000539377,14.24853837,0.016104032,0.041948377,39.52326762,chou_s_differentiated_2017,1,2,5.309368506,NA,5.248471721,Medium
+UL97_DEL601-603,Ganciclovir,"marfori_je_development_2007, chou_s_differentiated_2017",3,11.50352918,4.90303035,26.98967253,0.114178913,97.04474039,0.006519809,0.198203405,12.32397534,"marfori_je_development_2007, chou_s_differentiated_2017",2,3,11.50845457,NA,11.50352918,Medium
+UL97_DEL601-603,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,marfori_je_development_2007,1,1,NA,1.153846154,1.153846154,Susceptible
+UL97_DEL601-603,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,marfori_je_development_2007,1,1,NA,0.847826087,0.847826087,Susceptible
+UL97_DEL617,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,komazin-meredith_g_human_2014,1,1,NA,9.333333333,9.333333333,Medium
+UL97_DEL617,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,komazin-meredith_g_human_2014,1,1,NA,382.3076923,382.3076923,High
+UL97_DEL638-641,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,mercorelli_6-aminoquinolone_2009,1,1,NA,8.052631579,8.052631579,Medium
+UL97_E362D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,3.853658537,3.853658537,Low
+UL97_E362D,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.090909091,0.090909091,Susceptible
+UL97_E596D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2015,1,1,NA,1.298701299,1.298701299,Susceptible
+UL97_E596G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_cytomegalovirus_2002, chou_s_frequency_1995",2,2,3.683748091,NA,3.683748091,Low
+UL97_E596Q,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_drug_2024,1,1,NA,2.755725191,2.755725191,Low
+UL97_E596Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2015,1,1,NA,6.484848485,6.484848485,Medium
+UL97_E655K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,drouot_e_characterization_2014,1,1,NA,1.716381418,1.716381418,Susceptible
+UL97_F342S,Ganciclovir,"piret_j_vitro_2022, chou_s_cytomegalovirus_2013",2,11.0989409,0.093649165,1315.404028,0.264101491,93.30183415,0.09860538,0.375804542,6.404525277,"piret_j_vitro_2022, chou_s_cytomegalovirus_2013",2,2,11.29339284,NA,11.0989409,Medium
+UL97_F342S,Maribavir,"piret_j_vitro_2022, chou_s_cytomegalovirus_2013",2,24.90812873,0.381209536,1627.490441,0.195065024,89.68907398,0.064905782,0.328941677,9.774359495,"piret_j_vitro_2022, chou_s_cytomegalovirus_2013",2,2,25.49509756,NA,24.90812873,High
+UL97_F342S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.8,0.8,Susceptible
+UL97_F342S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1,1,Susceptible
+UL97_F342S,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1,1,Susceptible
+UL97_F342Y,Maribavir,"chou_s_novel_2019, chou_s_ganciclovir_2021, chou_ganciclovir_2024",3,4.60931303,3.853691425,5.513094917,0.002036453,46.12023523,0.000740779,0.041613242,36.72097551,"chou_s_novel_2019, chou_s_ganciclovir_2021, chou_ganciclovir_2024",3,3,4.559796712,NA,4.60931303,Low
+UL97_F342Y,Ganciclovir,"chou_s_novel_2019, chou_s_ganciclovir_2021, chou_ganciclovir_2024",3,5.968667329,5.900414571,6.037709597,0,0,2.2386392693649e-06,0.002673016,668.3550163,"chou_s_novel_2019, chou_s_ganciclovir_2021, chou_ganciclovir_2024",3,3,5.971576686,NA,5.968667329,Medium
+UL97_F342Y/UL97_H411Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2019,1,1,NA,5.833333333,5.833333333,Medium
+UL97_F342Y/UL97_H411Y,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2019,1,1,NA,58.18181818,58.18181818,High
+UL97_G343A,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_comparative_2025,1,1,NA,8.461538462,8.461538462,Medium
+UL97_G343A,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_comparative_2025,1,1,NA,125,125,High
+UL97_G343A/UL97_H411Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_comparative_2025,1,1,NA,7.692307692,7.692307692,Medium
+UL97_G343A/UL97_H411Y,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_comparative_2025,1,1,NA,275,275,High
+UL97_G598D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,wong_dd_patient-derived_2019,1,1,NA,1.125,1.125,Susceptible
+UL97_G598S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,baldanti_z-isomers_2002,1,1,NA,7.4,7.4,Medium
+UL97_G623S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010,1,1,NA,1.141414141,1.141414141,Susceptible
+UL97_H411L,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_accelerated_2008,1,1,NA,69.09090909,69.09090909,High
+UL97_H411L/UL97_H587Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_accelerated_2008,1,1,NA,0.7,0.7,Susceptible
+UL97_H411N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_accelerated_2008,1,1,NA,1,1,Susceptible
+UL97_H411N,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_accelerated_2008,1,1,NA,8.333333333,8.333333333,Medium
+UL97_H411Y,Ganciclovir,"piret_j_vitro_2022, chou_s_accelerated_2008, chou_ganciclovir_2024",3,0.524211694,0.252374041,1.088851684,0.080320879,96.85364834,0.062750983,0.169891313,-3.801605097,"piret_j_vitro_2022, chou_s_accelerated_2008, chou_ganciclovir_2024",3,3,0.516249357,NA,0.524211694,Susceptible
+UL97_H411Y,Maribavir,"chou_s_drug_2022, piret_j_vitro_2022, chou_s_novel_2019, chou_s_accelerated_2008, chou_s_antiviral_2018, chou_ganciclovir_2024, chou_comparative_2025",9,16.45306732,14.43822383,18.74908072,0.026019976,88.82652648,3.1027460798858e-11,0.056648988,49.43622173,"chou_s_drug_2022, piret_j_vitro_2022, chou_s_novel_2019, chou_s_accelerated_2008, chou_s_antiviral_2018, chou_ganciclovir_2024, chou_comparative_2025",7,9,16.72513768,NA,16.45306732,High
+UL97_H411Y,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.648648649,0.648648649,Susceptible
+UL97_H411Y,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.354166667,0.354166667,Susceptible
+UL97_H411Y,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_antiviral_2018",2,2,1.144155107,NA,1.144155107,Susceptible
+UL97_H415Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,1.097560976,1.097560976,Susceptible
+UL97_H415Y,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.627272727,0.627272727,Susceptible
+UL97_H469Y,Ganciclovir,chou_s_recombinant_2010,2,1.114541632,0.258792605,4.799994379,0.012845109,45.97418974,0.518449077,0.114917991,0.943657532,"chou_s_recombinant_2010, smith_il_high-level_1997, erice_a_ganciclovir_1998",3,4,1.016968109,NA,1.114541632,Susceptible
+UL97_H469Y,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.5,1.5,Susceptible
+UL97_H469Y,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.8,1.8,Susceptible
+UL97_H469Y/UL97_A591V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.5,1.5,Susceptible
+UL97_H469Y/UL97_A591V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.3,1.3,Susceptible
+UL97_H469Y/UL97_A591V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.4,1.4,Susceptible
+UL97_H520Q,Ganciclovir,"chou_s_cytomegalovirus_2011, james_sh_cyclopropavir_2011, biron_kk_potent_2002, talarico_cl_acyclovir_1999, hanson_mn_novel_1995, chou_ganciclovir_2024",6,7.35522732,5.419269962,9.982777995,0.067716704,84.14160684,1.3687548489717e-05,0.118825296,16.7928154,"chou_s_cytomegalovirus_2011, james_sh_cyclopropavir_2011, biron_kk_potent_2002, chou_s_frequency_1995, erice_a_ganciclovir_1998, talarico_cl_acyclovir_1999, hanson_mn_novel_1995, chou_ganciclovir_2024",8,10,10.0079648,NA,7.35522732,Medium
+UL97_H520Q,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_ganciclovir_2024,1,1,NA,0.661016949,0.661016949,Susceptible
+UL97_H520Q,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,james_sh_cyclopropavir_2011,1,2,0.256745725,NA,0.256745725,Susceptible
+UL97_H520Q/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,erice_a_ganciclovir_1998,1,1,NA,5.8,5.8,Medium
+UL97_H587Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2011,1,1,NA,1,1,Susceptible
+UL97_I324V,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_effects_2012,1,1,NA,0.583333333,0.583333333,Susceptible
+UL97_I610T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2015,1,1,NA,2.614718615,2.614718615,Low
+UL97_K355M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,komazin-meredith_g_human_2014,1,1,NA,25,25,High
+UL97_K359E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2019,1,1,NA,3.75,3.75,Low
+UL97_K359E,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2019,1,1,NA,1.181818182,1.181818182,Susceptible
+UL97_K359N,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,2.138211382,2.138211382,Low
+UL97_K359N,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.681818182,0.681818182,Susceptible
+UL97_K359Q,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2019,1,1,NA,3.666666667,3.666666667,Low
+UL97_K359Q,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_novel_2019,1,1,NA,1.363636364,1.363636364,Susceptible
+UL97_K599E,Ganciclovir,chou_s_differentiated_2017,2,1.200753317,0.111151535,12.97155748,0.06428309,91.57449621,0.507472393,0.187295105,0.976796076,chou_s_differentiated_2017,1,2,1.206045378,NA,1.200753317,Susceptible
+UL97_K599R,Ganciclovir,chou_s_recombinant_2010,2,1.025048881,0.089780427,11.70327699,0.065186438,88.73802874,0.918269563,0.191648776,0.129091878,chou_s_recombinant_2010,1,2,1.025740246,NA,1.025048881,Susceptible
+UL97_K599T,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,faizi_khan_r_genetic_1998,1,1,NA,1.4,1.4,Susceptible
+UL97_K599T,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,faizi_khan_r_genetic_1998,1,1,NA,1.1,1.1,Susceptible
+UL97_K599T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,faizi_khan_r_genetic_1998,1,1,NA,5.6,5.6,Medium
+UL97_L126Q/UL97_I244V,Ganciclovir,chou_s_cytomegalovirus_2007,2,1.083333333,1.083333333,1.083333333,0,0,0,0,Inf,chou_s_cytomegalovirus_2007,1,2,1.083333333,NA,1.083333333,Susceptible
+UL97_L126Q/UL97_I244V,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2007,1,1,NA,0.785714286,0.785714286,Susceptible
+UL97_L126Q/UL97_I244V/UL97_Q449K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2007,1,1,NA,1.25,1.25,Susceptible
+UL97_L126Q/UL97_I244V/UL97_Q449K,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2007,1,1,NA,1.071428571,1.071428571,Susceptible
+UL97_L337M,Maribavir,"piret_j_vitro_2022, chou_s_effects_2012",3,3.271689305,2.833706276,3.777367824,5.41329483751273e-06,0.095271756,0.000793212,0.033402874,35.48516427,"piret_j_vitro_2022, chou_s_effects_2012",2,3,3.100799294,NA,3.271689305,Low
+UL97_L337M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.540540541,0.540540541,Susceptible
+UL97_L337M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.9,0.9,Susceptible
+UL97_L337M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.3,1.3,Susceptible
+UL97_L337M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1,1,Susceptible
+UL97_L348V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.926829268,0.926829268,Susceptible
+UL97_L348V,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,1.545454545,1.545454545,Susceptible
+UL97_L397R,Ganciclovir,"chou_s_cytomegalovirus_2007, biron_kk_potent_2002, chou_ganciclovir_2024",3,1.609253909,0.551953093,4.691880846,0.165717406,97.87865779,0.19586917,0.248698406,1.913042666,"piret_j_vitro_2022, chou_s_cytomegalovirus_2007, drew_wl_maribavir_2006, biron_kk_potent_2002, chou_ganciclovir_2024",5,6,1.260576406,NA,1.609253909,Susceptible
+UL97_L397R,Maribavir,"piret_j_vitro_2022, chou_ganciclovir_2024",2,224.5251099,0.103434534,487376.1517,0.714486377,97.68464486,0.07080612,0.604649783,8.953922914,"piret_j_vitro_2022, chou_s_cytomegalovirus_2007, drew_wl_maribavir_2006, chou_ganciclovir_2024",4,5,122.1976629,NA,224.5251099,High
+UL97_L397R,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.1,1.1,Susceptible
+UL97_L397R,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, drew_wl_maribavir_2006",2,3,0.981319893,NA,0.981319893,Susceptible
+UL97_L397R,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, drew_wl_maribavir_2006",2,3,0.866239105,NA,0.866239105,Susceptible
+UL97_L405P,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010,1,1,NA,2.770642202,2.770642202,Low
+UL97_L595F,Ganciclovir,"drouot_e_characterization_2014, beadle_alkoxyalkyl_2002, chou_ganciclovir_2024",3,6.439625074,1.650149892,25.13030561,0.258493806,92.20053772,0.027677276,0.316456911,5.885383617,"smith_il_high-level_1997, drouot_e_characterization_2014, beadle_alkoxyalkyl_2002, chou_ganciclovir_2024",4,4,3.965010692,NA,6.439625074,Medium
+UL97_L595F,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,smith_il_high-level_1997,1,1,NA,1.5,1.5,Susceptible
+UL97_L595F,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_ganciclovir_2024,1,1,NA,1.516949153,1.516949153,Susceptible
+UL97_L595F,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, beadle_alkoxyalkyl_2002",2,2,0.763120529,NA,0.763120529,Susceptible
+UL97_L595S,Ganciclovir,"chou_s_phenotyping_2005, kuramoto_t_novel_2010, talarico_cl_acyclovir_1999, chou_ganciclovir_2024",4,6.246131215,2.810882002,13.87968443,0.23401018,96.95753936,0.005304315,0.250896284,7.301671574,"chou_s_phenotyping_2005, eckle_t_drug-resistant_2000, smith_il_high-level_1997, chou_s_cytomegalovirus_2011, drew_wl_maribavir_2006, chou_s_cytomegalovirus_2002, kuramoto_t_novel_2010, gilbert_c_discordant_2003, wolf_dg_emergence_2001, abraham_b_ganciclovir_1999, chou_s_frequency_1995, eckle_t_rapid_2002, lurain_ns_molecular_1996, talarico_cl_acyclovir_1999, chou_s_analysis_1995, chou_ganciclovir_2024",16,20,5.503971974,NA,6.246131215,Medium
+UL97_L595S,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"drew_wl_maribavir_2006, chou_ganciclovir_2024",2,4,0.946262139,NA,0.946262139,Susceptible
+UL97_L595S,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, drew_wl_maribavir_2006, eckle_t_rapid_2002, lurain_ns_molecular_1996",4,6,0.645421762,NA,0.645421762,Susceptible
+UL97_L595S,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, drew_wl_maribavir_2006, eckle_t_rapid_2002, lurain_ns_molecular_1996",4,6,0.564621617,NA,0.564621617,Susceptible
+UL97_L595S/UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_phenotyping_2005,1,1,NA,11.11111111,11.11111111,Medium
+UL97_L595W,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_ganciclovir_2024,1,1,NA,1.372881356,1.372881356,Susceptible
+UL97_L595W,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_cytomegalovirus_2002, chou_ganciclovir_2024",2,2,7.087530085,NA,7.087530085,Medium
+UL97_L600I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010,1,1,NA,1.351351351,1.351351351,Susceptible
+UL97_L634Q,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2002,1,1,NA,1.1,1.1,Susceptible
+UL97_M460I,Ganciclovir,"chou_s_cytomegalovirus_2011, chou_ganciclovir_2024",2,10.10423353,0.413738174,246.7636337,0.122226893,96.59213806,0.068949329,0.251489449,9.197023985,"smith_il_high-level_1997, chou_s_cytomegalovirus_2011, lurain_ns_mutation_1994, chou_s_frequency_1995, chou_ganciclovir_2024",5,5,6.445450056,NA,10.10423353,Medium
+UL97_M460I,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_ganciclovir_2024,1,1,NA,0.237288136,0.237288136,Susceptible
+UL97_M460I,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, lurain_ns_mutation_1994",2,2,1,NA,1,Susceptible
+UL97_M460I,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, lurain_ns_mutation_1994",2,2,0.774596669,NA,0.774596669,Susceptible
+UL97_M460I/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_frequency_1995,1,1,NA,6.2,6.2,Medium
+UL97_M460I/UL97_A594V/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_frequency_1995,1,1,NA,8.4,8.4,Medium
+UL97_M460I/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_frequency_1995,1,1,NA,15.2,15.2,High
+UL97_M460T,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_recombinant_2010, chou_s_cytomegalovirus_2011",2,2,9.316651759,NA,9.316651759,Medium
+UL97_M460V,Maribavir,"chou_s_cytomegalovirus_2007, chou_ganciclovir_2024",2,0.353754981,0.112531039,1.112071723,0.012323726,75.70175599,0.055086828,0.090143002,-11.52780275,"chou_s_cytomegalovirus_2007, drew_wl_maribavir_2006, chou_ganciclovir_2024",3,3,0.36762844,NA,0.353754981,Susceptible
+UL97_M460V,Ganciclovir,"chou_s_phenotyping_2005, chou_s_recombinant_2010, chou_s_cytomegalovirus_2007, marfori_je_development_2007, fischer_l_identification_2015, fischer_l_generation_2013, biron_kk_potent_2002, wolf_dg_emergence_2001, beadle_alkoxyalkyl_2002, talarico_cl_acyclovir_1999, chou_ganciclovir_2024",11,7.572257827,5.680481103,10.09405499,0.14990014,96.85637118,2.26448244177877e-08,0.129011418,15.69234193,"chou_s_phenotyping_2005, chou_s_recombinant_2010, chou_s_cytomegalovirus_2007, marfori_je_development_2007, smith_il_high-level_1997, fischer_l_identification_2015, foulongne_v_ganciclovir_2004, mousavi-jazi_m_point_2003, chou_s_cytomegalovirus_2011, drew_wl_maribavir_2006, fischer_l_generation_2013, cihlar_t_point_1998, biron_kk_potent_2002, wolf_dg_emergence_2001, abraham_b_ganciclovir_1999, chou_s_frequency_1995, beadle_alkoxyalkyl_2002, talarico_cl_acyclovir_1999, chou_s_analysis_1995, chou_ganciclovir_2024",20,23,8.846856787,NA,7.572257827,Medium
+UL97_M460V,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, beadle_alkoxyalkyl_2002",2,2,1.217519175,NA,1.217519175,Susceptible
+UL97_M460V,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"smith_il_high-level_1997, mousavi-jazi_m_point_2003",2,2,0.948683298,NA,0.948683298,Susceptible
+UL97_M460V/UL97_A594V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_frequency_1995,1,2,6.763874629,NA,6.763874629,Medium
+UL97_M460V/UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_phenotyping_2005, lee_gc_use_2005",2,3,18.17616801,NA,18.17616801,High
+UL97_M460V/UL97_L595S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,abraham_b_ganciclovir_1999,1,1,NA,17.5,17.5,High
+UL97_M615V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,martin_m_incidence_2010,1,1,NA,1.15,1.15,Susceptible
+UL97_N510S,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chou_s_recombinant_2010, erice_a_ganciclovir_1998",2,2,1.22350713,NA,1.22350713,Susceptible
+UL97_N510S/UL97_DEL591-594,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_frequency_1995,1,1,NA,8.1,8.1,Medium
+UL97_N597D,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,iwasenko_jm_successful_2009,1,1,NA,1.381818182,1.381818182,Susceptible
+UL97_N68D/UL97_I244V/UL97_D605E,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lurain_ns_mutation_1994,1,1,NA,1,1,Susceptible
+UL97_N68D/UL97_I244V/UL97_D605E,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lurain_ns_mutation_1994,1,1,NA,1.3,1.3,Susceptible
+UL97_N68D/UL97_I244V/UL97_D605E,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,lurain_ns_mutation_1994,1,1,NA,0.5,0.5,Susceptible
+UL97_N68D/UL97_L126Q/UL97_I244V,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2011,1,1,NA,1.099009901,1.099009901,Susceptible
+UL97_N68D/UL97_L126Q/UL97_I244V,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2007,1,1,NA,1.322580645,1.322580645,Susceptible
+UL97_N68D/UL97_L126Q/UL97_I244V/UL97_Q449K,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2007,1,1,NA,1,1,Susceptible
+UL97_P468Q,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,fischer_l_identification_2016,1,1,NA,1.766233766,1.766233766,Susceptible
+UL97_P521L,Ganciclovir,"piret_j_vitro_2022, chou_s_cytomegalovirus_2013",3,23.86460054,5.959769893,95.56059533,0.283870224,92.78934064,0.010173412,0.32244395,9.838597422,"piret_j_vitro_2022, chou_s_cytomegalovirus_2013",2,3,24.08732698,NA,23.86460054,High
+UL97_P521L,Maribavir,"piret_j_vitro_2022, chou_s_cytomegalovirus_2013",3,264.0847607,29.37770615,2373.934863,0.761615914,99.21363139,0.008273741,0.510390719,10.92549277,"piret_j_vitro_2022, chou_s_cytomegalovirus_2013",2,3,261.2521441,NA,264.0847607,High
+UL97_P521L,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.7,0.7,Susceptible
+UL97_P521L,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.911458333,1.911458333,Susceptible
+UL97_P521L,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1,1,Susceptible
+UL97_Q449K,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,erice_a_ganciclovir_1998,1,1,NA,0.6,0.6,Susceptible
+UL97_S334G,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_effects_2012,1,1,NA,1,1,Susceptible
+UL97_S386L,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_effects_2012,1,1,NA,0.833333333,0.833333333,Susceptible
+UL97_T409M,Ganciclovir,"chou_s_cytomegalovirus_2007, chou_ganciclovir_2024",2,1.065511203,0.161990981,7.008502076,0.041579117,94.57402225,0.742528776,0.14824799,0.428030675,"piret_j_vitro_2022, chou_s_cytomegalovirus_2007, chou_ganciclovir_2024",3,3,1.005731498,NA,1.065511203,Susceptible
+UL97_T409M,Maribavir,"chou_s_drug_2022, piret_j_vitro_2022, chou_s_novel_2019, chou_s_cytomegalovirus_2007, chou_s_antiviral_2018, chou_ganciclovir_2024",7,91.61328399,85.6303133,98.01428349,0.002065343,40.24436559,3.50875984213328e-12,0.027600886,163.6750459,"chou_s_drug_2022, piret_j_vitro_2022, chou_s_novel_2019, chou_s_cytomegalovirus_2007, chou_s_antiviral_2018, chou_ganciclovir_2024",6,8,88.94547062,NA,91.61328399,High
+UL97_T409M,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.8,0.8,Susceptible
+UL97_T409M,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.1,1.1,Susceptible
+UL97_T409M,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"piret_j_vitro_2022, chou_s_antiviral_2018",2,2,1.190874392,NA,1.190874392,Susceptible
+UL97_T601M,Ganciclovir,chou_s_differentiated_2017,2,1,1,1,0,0,NA,0,NA,chou_s_differentiated_2017,1,2,1,NA,1,Susceptible
+UL97_T659I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_recombinant_2010,1,1,NA,1.272727273,1.272727273,Susceptible
+UL97_V345I,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,1.325203252,1.325203252,Susceptible
+UL97_V345I,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.418181818,0.418181818,Susceptible
+UL97_V353A,Ganciclovir,"chou_s_accelerated_2008, chou_s_cytomegalovirus_2007",2,1.243403865,0.078256256,19.75628851,0.094268075,99.49041488,0.499716823,0.217658949,1.000890024,"chou_s_accelerated_2008, chou_s_cytomegalovirus_2007",2,2,1.243163121,NA,1.243403865,Susceptible
+UL97_V353A,Maribavir,"chou_s_cytomegalovirus_2013, chou_s_accelerated_2008, chou_s_cytomegalovirus_2007, chou_s_effects_2012, chou_s_diverse_2009",6,13.95543761,10.62766284,18.32521804,0.056390709,98.94161619,1.95948627311173e-06,0.105971698,24.87333205,"chou_s_cytomegalovirus_2013, chou_s_accelerated_2008, chou_s_cytomegalovirus_2007, chou_s_effects_2012, chou_s_diverse_2009",5,6,13.90321294,NA,13.95543761,Medium
+UL97_V353A/UL97_H411L,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_accelerated_2008,1,1,NA,1,1,Susceptible
+UL97_V353A/UL97_H411L,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_accelerated_2008,1,1,NA,227.2727273,227.2727273,High
+UL97_V353A/UL97_H411Y,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_accelerated_2008,1,1,NA,0.609090909,0.609090909,Susceptible
+UL97_V353A/UL97_H411Y,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_accelerated_2008,1,1,NA,163.6363636,163.6363636,High
+UL97_V356G,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2013,1,1,NA,5.495049505,5.495049505,Medium
+UL97_V356G,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2013,1,1,NA,108.1666667,108.1666667,High
+UL97_V388M,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,1.154471545,1.154471545,Susceptible
+UL97_V388M,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,1.090909091,1.090909091,Susceptible
+UL97_V466G,Ganciclovir,"chou_s_cytomegalovirus_2013, martin_m_contrasting_2010",2,6.245552793,0.003345468,11659.6315,0.692633001,98.55402975,0.199236537,0.592782688,3.090288725,"piret_j_vitro_2022, chou_s_cytomegalovirus_2013, martin_m_incidence_2010, martin_m_contrasting_2010",4,4,4.466286296,NA,6.245552793,Medium
+UL97_V466G,Cidofovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1.2,1.2,Susceptible
+UL97_V466G,Foscarnet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,1,1,Susceptible
+UL97_V466G,Letermovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,piret_j_vitro_2022,1,1,NA,0.5,0.5,Susceptible
+UL97_V466G,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_cytomegalovirus_2013,1,1,NA,320.9166667,320.9166667,High
+UL97_V466M,Ganciclovir,"chou_s_recombinant_2010, martin_m_contrasting_2010",2,1.2222607,0.904106547,1.652372969,0,0,0.074920865,0.023729371,8.457964615,"chou_s_recombinant_2010, martin_m_contrasting_2010",2,2,1.223140151,NA,1.2222607,Susceptible
+UL97_V665I,Ganciclovir,chou_s_recombinant_2010,2,1.08528215,0.919119643,1.281484248,0,0,0.100883001,0.013078569,6.257565269,chou_s_recombinant_2010,1,2,1.084810203,NA,1.08528215,Susceptible
+UL97_Y335H,Ganciclovir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,0.926829268,0.926829268,Susceptible
+UL97_Y335H,Maribavir,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,chou_s_ganciclovir_2021,1,1,NA,1,1,Susceptible

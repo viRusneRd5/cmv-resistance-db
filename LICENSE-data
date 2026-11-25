@@ -1,0 +1,27 @@
+CMV Antiviral Resistance Database — data licence
+================================================
+
+The curated data in this repository (data/source/, data/reference/,
+data/tidy/, and the JSON payload built into site/data/) is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+    https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt the data for any purpose, provided you give
+appropriate credit.
+
+Attribution
+-----------
+Please cite:
+
+    Hume J et al. CMV Antiviral Resistance Database. <systematic-review
+    citation to be added>. https://github.com/viRusneRd5/cmv-resistance-db
+
+The database aggregates primary data from the peer-reviewed studies listed in
+data/source/cmv_resistance_db.bib. When reusing data for a specific mutation,
+cite the original studies as well.
+
+Disclaimer
+----------
+This dataset is for research use only. It must not be used to inform clinical
+practice or the management of individual patients.

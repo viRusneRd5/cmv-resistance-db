@@ -1,0 +1,7 @@
+gene,protein,function,target_drugs,sort_order,n_resistance,n_phenotyped,n_in_patients,n_combo
+UL54,DNA polymerase catalytic subunit,"Viral DNA polymerase; the direct target of ganciclovir, cidofovir and foscarnet.",Ganciclovir;Cidofovir;Foscarnet,1,109,188,788,116
+UL97,Viral protein kinase,Serine/threonine kinase that phosphorylates (activates) ganciclovir; also the target of maribavir.,Ganciclovir;Maribavir,2,71,109,451,28
+UL56,Terminase subunit pUL56,Large subunit of the DNA terminase complex that packages viral genomes into capsids; primary target of letermovir.,Letermovir,3,34,71,125,24
+UL89,Terminase subunit pUL89,ATPase subunit of the DNA terminase complex; letermovir resistance-associated.,Letermovir,4,2,15,29,2
+UL51,Terminase complex component pUL51,Accessory component of the DNA terminase complex; letermovir resistance-associated.,Letermovir,5,2,5,4,8
+UL27,Tegument protein pUL27,Function incompletely defined; mutations are associated with reduced maribavir susceptibility.,Maribavir,6,9,16,244,6

@@ -1,0 +1,17 @@
+# Build + test environment for the CMV Antiviral Resistance Database.
+# Local: `conda env create -f environment.yml` then `conda activate cmv-resistance-db`.
+# (The maintainer's local env is called `cmv-rf` and is a superset of this.)
+name: cmv-resistance-db
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.5
+  - r-readr
+  - r-dplyr
+  - r-tidyr
+  - r-stringr
+  - r-purrr
+  - r-jsonlite
+  - r-tibble
+  - deno        # headless smoke test (test/smoke.mjs)
+  - esbuild     # JS parse check
